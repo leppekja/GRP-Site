@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<h2> Jacob Leppek </h2>
+<h4> James Madison College, Michigan State University
 
-### More Information
+Recent Graduate of International Relations, Economics, and Arabic with a minor in Political Economy </h4>
 
-A place to include any other types of information that you'd like to include about yourself.
+### Research Interests
 
-### Contact me
+History of media systems, developmental economics, political economy, relationship between governance and media freedoms.
 
-[email@domain.com](mailto:email@domain.com)
+### Contact Information
+
+[leppekj@gmail.com](mailto:leppekj@gmail.com)
+
+[LinkedIn](linkedin.com/in/leppekja)
