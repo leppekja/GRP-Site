@@ -15,6 +15,6 @@ History of media systems, developmental economics, political economy, relationsh
 
 ### Contact Information
 
-[leppekj@gmail.com](mailto:leppekj@gmail.com)
+[Send Email](mailto:leppekj@gmail.com)
 
 [LinkedIn](linkedin.com/in/leppekja)
