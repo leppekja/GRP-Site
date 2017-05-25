@@ -2,7 +2,7 @@
 layout: post
 title: Work in Progress
 bg: white
-color: #0fbfcf
+color: white
 style: center
 ---
 
