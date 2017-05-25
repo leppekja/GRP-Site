@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<h2> Jacob Leppek </h2>
 <h4> James Madison College, Michigan State University
 
 Recent Graduate of International Relations, Economics, and Arabic with a minor in Political Economy </h4>
