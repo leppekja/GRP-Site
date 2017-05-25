@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Topic selection
+title: Work in Progress
 ---
 
-Test post. [Check out this site.](https://www.google.com "Google's Homepage")
+Thanks for visiting. [Please refer to my LinkedIn page.](linkedin.com/in/leppekja "LinkedIn Page")for more information while I continue learning how to code over Summer 2017. 
