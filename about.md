@@ -38,7 +38,7 @@ History of media systems, developmental economics, political economy, relationsh
 ##### [Community Engaged Scholar Program](https://engage.msu.edu/) with [Midtown Detroit Inc.](http://midtowndetroitinc.org/), *Scholar*
 
 
-I've logged nearly [200 volunteer hours}(https://www.givegab.com/users/jacob-leppek-df65a557-30e7-413a-bfcf-5d14bea70d0b)
+I've logged nearly [200 volunteer hours](https://www.givegab.com/users/jacob-leppek-df65a557-30e7-413a-bfcf-5d14bea70d0b)
 since October 2016. 
 
 ### Languages
