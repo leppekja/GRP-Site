@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: splash
 title: Studying Abroad
 bg: #9bcf2f
 color: white
