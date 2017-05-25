@@ -32,7 +32,6 @@ History of media systems, developmental economics, political economy, relationsh
 
 ### Employment
 ##### [MSU Department of Economics](http://econ.msu.edu/), *Undergraduate Assistant*, Sep.-Oct. 2016.
-Left for new position. 
 ##### [MSU Office for International Students & Scholars](http://oiss.isp.msu.edu/), *Front Dest Receptionist*, May 2015 - Jun. 2016
 
 ### Volunteering
