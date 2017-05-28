@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Job Interests
 
-Social innovation, non-profit organizations, start-ups, sustainability, government relations, communications, social media campaigns, network development, fundraising, grant writing, research associate, Salesforce. 
+Social innovation, non-profit organizations, start-ups, sustainability, government relations, communications, social media campaigns, network development, fundraising, grant writing, research associate, Salesforce, translation. 
 
 ### Academic Research Interests
 
