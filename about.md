@@ -6,7 +6,7 @@ permalink: /about/
 
 #### James Madison College, Michigan State University
 
-## Recent Graduate of International Relations, Economics, and Arabic with a minor in Political Economy
+## Recent Graduate of International Relations, Economics, and Arabic with a minor in Political Economy, with Honors
 
 ### Job Interests
 
