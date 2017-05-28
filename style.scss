@@ -14,34 +14,28 @@
 /**************/
 
 html {
-  font-size: 100%;
-.cd-fixed-bg {
-	min-height: 100%;
-	background-size: cover;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-position: center center;
-}
- 
-.cd-fixed-bg.cd-bg-1 {
-  background-image: url(leppekja.github.io/images/blueround.jpg);
-}
-.cd-fixed-bg.cd-bg-2 {
-  background-image: url(leppekja.github.io/images/Michigan-State-Spartans-Wallpaper-1024x640.jpg);
-}
-.cd-fixed-bg.cd-bg-3 {
-  background-image: url(leppekja.github.io/images/blueround.jpg);
-}
-.cd-fixed-bg.cd-bg-4 {
-  background-image: url(leppekja.github.io/images/Michigan-State-Spartans-Wallpaper-1024x640.jpg);
-}
-	
+  font-size: 100%;	
 }
 
 body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
+
+.parallax {
+    /* The image used */
+    background-image: url(leppekja.github.io/images/blueround.jpg);
+
+    /* Set a specific height */
+    height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 .container {
   margin: 0 auto;
