@@ -15,11 +15,26 @@
 
 html {
   font-size: 100%;
-  background: url(leppekja.github.io/images/blueround.jpg)no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+.cd-fixed-bg {
+	min-height: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+ 
+.cd-fixed-bg.cd-bg-1 {
+  background-image: url(leppekja.github.io/images/blueround.jpg);
+}
+.cd-fixed-bg.cd-bg-2 {
+  background-image: url(leppekja.github.io/images/Michigan-State-Spartans-Wallpaper-1024x640.jpg);
+}
+.cd-fixed-bg.cd-bg-3 {
+  background-image: url(leppekja.github.io/images/blueround.jpg);
+}
+.cd-fixed-bg.cd-bg-4 {
+  background-image: url(leppekja.github.io/images/Michigan-State-Spartans-Wallpaper-1024x640.jpg);
+}
 	
 }
 
@@ -161,7 +176,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  color: $lightGray;
+  background: $lightGray;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
