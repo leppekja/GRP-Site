@@ -8,6 +8,8 @@ permalink: /about/
 
 ## Recent Graduate of International Relations, Economics, and Arabic with a minor in Political Economy, with Honors
 
+As a recent MSU graduate, I'm interested in applying what I've learned in the past four year, and moreover, work to obtain practical experience that I'll be able to capitalize on during graduate school. 
+
 ### Job Interests
 
 Social innovation, non-profit organizations, start-ups, sustainability, government relations, communications, social media campaigns, network development, fundraising, grant writing, research associate, Salesforce, translation. 
