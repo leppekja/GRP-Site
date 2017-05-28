@@ -8,11 +8,11 @@ permalink: /about/
 
 ## Recent Graduate of International Relations, Economics, and Arabic with a minor in Political Economy, with Honors
 
-As a recent MSU graduate, I'm interested in applying what I've learned in the past four year, and moreover, work to obtain practical experience that I'll be able to capitalize on during graduate school. 
+As a recent MSU graduate, I'm interested in applying what I've learned in the past four year, and moreover, work to obtain practical experience that I'll be able to capitalize on during graduate school.
 
 ### Job Interests
 
-Social innovation, non-profit organizations, start-ups, sustainability, government relations, communications, social media campaigns, network development, fundraising, grant writing, research associate, Salesforce, translation. 
+Social innovation, non-profit organizations, start-ups, sustainability, government relations, communications, social media campaigns, network development, fundraising, grant writing, research associate, Salesforce, translation.
 
 ### Academic Research Interests
 
@@ -46,7 +46,7 @@ Spartan Global Development Fund
 MSU Phi Delta Theta, Community Service Chair (2014)
 
 I've logged nearly [200 volunteer hours](https://www.givegab.com/users/jacob-leppek-df65a557-30e7-413a-bfcf-5d14bea70d0b)
-since October 2016. 
+since October 2016.
 
 ### Languages
 
@@ -59,7 +59,7 @@ Programming Languages: Working knowledge of Python, SQL, HTML
 
 ##### [Foreign Language & Area Studies Fellowship](https://www2.ed.gov/programs/iegpsflasf/index.html), U.S. Department of Education, AY 2015, Summer 2016, AY 2016
 
-•	Awarded to high-achieving students for advanced Asian language and culture studies.	
+•	Awarded to high-achieving students for advanced Asian language and culture studies.
 
 ##### [Benjamin A. Gilman International Scholarship](https://www.iie.org/Programs/Gilman-Scholarship-Program), U.S. Department of State, Summer 2016
 
@@ -67,7 +67,7 @@ Programming Languages: Working knowledge of Python, SQL, HTML
 
 •	An initiative for the top 5% of accomplished undergraduate economics students.
 
-MSU Koch Scholar, Charles G. Koch Charitable Foundation	
+MSU Koch Scholar, Charles G. Koch Charitable Foundation
 
 Dean’s List, Michigan State University, James Madison College, 2015 - 2017
 
