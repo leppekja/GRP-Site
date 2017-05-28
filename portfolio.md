@@ -7,7 +7,7 @@ The following are examples of various online content I've produced personally an
 
 [2016 Learning Abroad Presentation](https://www.youtube.com/watch?v=uneK7iSBot4)
 
-[2017 Senior Honors Thesis Defense Powerpoint](leppekja.github.io/images/leppek_iraq pres_revised.pptx) 
+[2017 Senior Honors Thesis Defense Powerpoint](https://leppekja.github.io/images/leppek_iraq pres_revised.pptx) 
 
 [REI March News Update](https://reicenter.org/about/news/2017-rei-projects-across-michigan)
 
