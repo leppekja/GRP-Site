@@ -2,7 +2,7 @@
 layout: post
 title: Studying Abroad
 ---
-The morning comes singing Allahu Akbar, and the birds listen. I hear it too, but I listen for the whistle of the teapot. The shrillness is familiar and comforting, unlike the call to prayer and city noise, carried by the breeze. I could leave it on until the water boils away. 
+The morning comes singing Allahu Akbar, and the birds listen.<!--excerpt--> I hear it too, but I listen for the whistle of the teapot. The shrillness is familiar and comforting, unlike the call to prayer and city noise, carried by the breeze. I could leave it on until the water boils away. 
 	
 The coffee shops are empty until the evening, when the men leave work for the cards and tobacco. Next door, the abandoned lot-turned-parking lot is full. Despite the dust, the cars are immaculate and nearly touching one another.
 	
