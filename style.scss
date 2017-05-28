@@ -22,21 +22,6 @@ body {
   color: $darkGray;
 }
 
-.parallax {
-    /* The image used */
-    background-image: url(leppekja.github.io/images/blueround.jpg);
-
-    /* Set a specific height */
-    height: 500px;
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -165,7 +150,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 75px;
 }
 
 .masthead {
