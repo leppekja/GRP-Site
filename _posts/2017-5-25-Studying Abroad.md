@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Studying Abroad
-bg: #9bcf2f
 color: black
-style: center
 ---
 The morning comes singing Allahu Akbar, and the birds listen. I hear it too, but I listen for the whistle of the teapot. The shrillness is familiar and comforting, unlike the call to prayer and city noise, carried by the breeze. I could leave it on until the water boils away. 
 	
