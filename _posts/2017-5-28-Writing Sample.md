@@ -2,7 +2,7 @@
 layout: post
 title: Japan’s Economy-Focused Environmental Policy
 ---
-In the 20th and 21st century, sustainable development has posed numerous difficulties for Japan. <!--excerpt--> The island-state does not have enough domestic natural resources to sustain a population of nearly 130 million and GDP of nearly $5 trillion in the long-term, forcing a heavy reliance on imported materials for production.<sup id="a1">[1](#f1)</sup>  Japan’s rapid economic development after the destruction of World War Two left its domestic environment in shambles by the mid-1970s, resulting in heavy pollution in urban areas, public health incidents, deforestation, and massive waste disposal issues.  Since then, Japan has attempted to balance environmental policy with industry needs, making great strides in solving some domestic and global issues, while severely lagging in other areas.  Understanding this, the null hypothesis of this analysis is that Japan is a swing vote which bases its decision-making on international environmental agreements out of perceived economic self-interest. 
+In the 20th and 21st century, sustainable development has posed numerous difficulties for Japan. <!--excerpt--> The island-state does not have enough domestic natural resources to sustain a population of nearly 130 million and GDP of nearly $5 trillion in the long-term, forcing a heavy reliance on imported materials for production.<sup id="a1">[1](#f1)</sup>  Japan’s rapid economic development after the destruction of World War Two left its domestic environment in shambles by the mid-1970s, resulting in heavy pollution in urban areas, public health incidents, deforestation, and massive waste disposal issues.[2]  Since then, Japan has attempted to balance environmental policy with industry needs, making great strides in solving some domestic and global issues, while severely lagging in other areas.  Understanding this, the null hypothesis of this analysis is that Japan is a swing vote which bases its decision-making on international environmental agreements out of perceived economic self-interest. 
   
 Out of the 29 international environmental agreements sampled, Japan has acted as a lead state on 8, a swing state on 16, and a veto state on 5. Of course, these categories are rough estimates compiled from a wide variety of sources, and should not be taken as conclusive proof, but as indications of general trends in Japan’s activity concerning international environmental policy discussions. It is apparent Japan’s behavior varies widely across issues.
   
@@ -23,7 +23,7 @@ To ensure Japan’s cooperation, it’s important to lessen costs of compliance,
   
 <b id="f1">1.</b>CIA World Factbook “Japan” Central Intelligence Agency. 2016.[↩](#a1)
 
-2. Miller, Alan S., and Curtis Moore. "Japan and the Global Environment." Duke Environmental Law & Policy Forum. Vol. 1. No. 1. 35-56. Duke University School of Law, 1991. See also Wong, Anny. The domestic roots of Japan's international environmental policies. UMI, 1998.
+[2.] Miller, Alan S., and Curtis Moore. "Japan and the Global Environment." Duke Environmental Law & Policy Forum. Vol. 1. No. 1. 35-56. Duke University School of Law, 1991. See also Wong, Anny. The domestic roots of Japan's international environmental policies. UMI, 1998.
 
 3. https://www.env.go.jp/en/policy/plan/intro.html
 
@@ -59,11 +59,11 @@ To ensure Japan’s cooperation, it’s important to lessen costs of compliance,
 26. YU-JOSE, LYDIA N. "Global Environmental Issues: Responses from Japan." Japanese Journal of Political Science 5.1 (2004): 23-50. Print. (1).
 27. http://www.japantimes.co.jp/news/2015/12/16/national/japan-virtual-nonentity-paris-climate-talks/
 28. http://www.japantimes.co.jp/news/2015/12/16/national/japan-virtual-nonentity-paris-climate-talks/
-29. http://www.reuters.com/article/us-climatechange-paris-japan-idUSKBN1330J9
-30. http://www.japantimes.co.jp/news/2015/12/16/national/japan-virtual-nonentity-paris-climate-talks/
-31. http://www.tokyofoundation.org/en/articles/2016/paris-agreement-and-japans-energy-risks See Dimitrov, Radoslav S. Global Environmental Politics MIT. 16:3, August 2016, doi:10.1162/GLEP_a_00361
-32. http://www.japantimes.co.jp/news/2015/12/16/national/japan-virtual-nonentity-paris-climate-talks/
-33. http://japan.kantei.go.jp/97_abe/statement/201611/1219866_11019.html
+29. http://www.reuters.com/article/us-climatechange-paris-japan-idUSKBN1330J9 [↩](#a1)
+30. http://www.japantimes.co.jp/news/2015/12/16/national/japan-virtual-nonentity-paris-climate-talks/ [↩](#a30)
+31. http://www.tokyofoundation.org/en/articles/2016/paris-agreement-and-japans-energy-risks See Dimitrov, Radoslav S. Global Environmental Politics MIT. 16:3, August 2016, doi:10.1162/GLEP_a_00361 [↩](#a31)
+32. http://www.japantimes.co.jp/news/2015/12/16/national/japan-virtual-nonentity-paris-climate-talks/ [↩](#a32)
+<b id="f1">33.</b>http://japan.kantei.go.jp/97_abe/statement/201611/1219866_11019.html [↩](#a33)
 
 
 
