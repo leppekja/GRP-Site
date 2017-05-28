@@ -37,6 +37,11 @@ History of media systems, developmental economics, political economy, relationsh
 ### Volunteering
 ##### [Community Engaged Scholar Program](https://engage.msu.edu/) with [Midtown Detroit Inc.](http://midtowndetroitinc.org/), *Scholar*
 
+##### [Spartans Rebuilding Michigan](spartansrebuildingmichigan.org)
+
+Spartan Global Development Fund
+
+MSU Phi Delta Theta, Community Service Chair (2014)
 
 I've logged nearly [200 volunteer hours](https://www.givegab.com/users/jacob-leppek-df65a557-30e7-413a-bfcf-5d14bea70d0b)
 since October 2016. 
@@ -48,9 +53,26 @@ Working Knowledge of French
 
 Programming Languages: Working knowledge of Python, SQL, HTML
 
+### Honors & Awards
+[Foreign Language & Area Studies Fellowship](https://www2.ed.gov/programs/iegpsflasf/index.html), U.S. Department of Education, AY 2015, Summer 2016, AY 2016
+•	Awarded to high-achieving students for advanced Asian language and culture studies.	
+[Econ Scholars Program](http://econ.msu.edu/undergraduate/scholars.php), MSU Department of Economics, 2015 - 2017
+•	An initiative for the top 5% of accomplished undergraduate economics students.
+MSU Koch Scholar, Charles G. Koch Charitable Foundation	
+[Benjamin A. Gilman International Scholarship](https://www.iie.org/Programs/Gilman-Scholarship-Program), U.S. Department of State, Summer 2016
+Dean’s List, Michigan State University, James Madison College, 2015 - 2017
+Jeffery Cole Excellence Award,	2016
+Ford Motor Company/MSU Alumni Scholarship,	2015
+Cole International Study Award, 2015
+
+
 ### Other Organizations & Skills
 
+##### [MSU Student Economics Association](http://msuecon.wixsite.com/msusea), Vice President of Programming
+
 Certification in Online Accessibility, MSU course 2016
+
+MSU Ski Club, MSU Disc Golf Club (2013)
 
 ### Contact Information
 
