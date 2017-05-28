@@ -12,7 +12,7 @@ description: Recent MSU Graduate
 avatar: https://leppekja.github.io/images/blue.png 
 # Flags below are optional
 #
-
+excerpt_separator: "<!--excerpt-->"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
