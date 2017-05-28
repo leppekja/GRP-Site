@@ -21,7 +21,7 @@ These insights offer some predictions on the performance of Japan in the 2015 Pa
   
 To ensure Japan’s cooperation, it’s important to lessen costs of compliance, as well as invoke reputational costs to non-cooperation. Japan’s environmental approach is also heavily shaped by its understanding that it is reliant on foreign raw resources, so to mitigate worries about long-term sustainability would be helpful, either by guaranteeing future raw material imports or through financial assistance perhaps. Also, as indicated by its stance during negotiations, Japan needs to have assurances that other developed countries will operate by the same set of standards. Its statement on acceptance reflects the approach taken in other agreements, emphasizing progress without stemming economic growth, developing innovative technologies, and providing technological and financial assistance to developing countries.<sup id="a33">[33](#f33)</sup>  Moving forward, it is important to demonstrate to Japan that both developed and developing countries are taking their commitments seriously, and that taking action on international environmental matters is integral to maintaining Japan’s overall welfare.
 
-Please refer to the [tables of evidence here](leppekja.github.io/images/Evidence Tables.pdf).
+Please refer to the [tables of evidence here](https://leppekja.github.io/images/Evidence Tables.pdf).
   
 <b id="f1">1.</b>CIA World Factbook “Japan” Central Intelligence Agency. 2016.[↩](#a1)
 
