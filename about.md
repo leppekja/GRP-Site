@@ -51,9 +51,11 @@ since October 2016.
 ### Languages
 
 Limited Professional Proficiency in Arabic (MSA & Levantine)
+Study Abroad Experience: 6 months in Amman, Jordan, Summer 2014 & 2015 at the [Jordan Language Academy](http://www.jordanla.com/) and the [Qasid Institute](http://www.qasid.com/), respectively.
+
 Working Knowledge of French
 
-Programming Languages: Working knowledge of Python, SQL, HTML
+Programming Languages: Working knowledge of Python, SQL, HTML, and CSS.
 
 ### Honors & Awards
 
@@ -80,11 +82,27 @@ Cole International Study Award, 2015
 
 ### Other Organizations & Skills
 
-##### [MSU Student Economics Association](http://msuecon.wixsite.com/msusea), Vice President of Programming
+##### [MSU Student Economics Association](http://msuecon.wixsite.com/msusea), Vice President of Programming 2016-2017
 
 Certification in Online Accessibility, MSU course 2016
 
 MSU Ski Club, MSU Disc Golf Club (2013)
+
+Presenter at the 2016 Learning Abroad Conference
+
+Title: Critical Engagement Abroad
+
+Presenter at the 2016 MSU CeLTA SAGA Storytelling Event
+
+Title: Listening and Foreign Language
+
+Presenter at the 2017 University Undergraduate Arts and Research Forum
+
+Title: The Iraqi Media & Social Divisions
+
+Presenter at 2017 JMC Research Conference:
+
+Title: The Political Nature of Iraqi Media Organizations
 
 ### Contact Information
 
