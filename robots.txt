@@ -1,2 +1,3 @@
-user-agent: Googlebot
+user-agent: *
 Disallow: */.pdf$
+Disallow: /images/Resume_online.pdf
