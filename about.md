@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: Jacob Leppek
 permalink: /about/
 ---
 
-#### James Madison College, Honors College, Michigan State University
+#### James Madison College,
+#### Honors College,
+#### Michigan State University
 
 ## Recent Graduate of International Relations, Economics, and Arabic with a minor in Political Economy, with Honors
 

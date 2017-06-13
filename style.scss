@@ -15,7 +15,7 @@
 
 html {
   font-size: 100%;
-  background-color: #eee;
+  background-color: $darkGray;
 }
 
 body {
@@ -25,9 +25,11 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  background: $lightGray;
+  max-width: 800px;
+  padding: 0 20px;
   width: 100%;
+  border-radius: 10px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -151,12 +153,15 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
   padding: 10px %100;
-  background: $lightGray;
+  background-image:url("http://jacobleppek.org/images/header%20copy.png");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size: auto;
   border-bottom: 3px solid #666;
 
   @include mobile {
@@ -245,7 +250,7 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   color: $black;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkGray;
 }
 
 .posts > .post:last-child {
@@ -265,6 +270,12 @@ nav {
 
   .comments {
     margin-top: 10px;
+  }
+
+  .col {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
   }
 
   .read-more {
