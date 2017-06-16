@@ -8,10 +8,11 @@ permalink: /about/
   <a href="http://jmc.msu.edu/">James Madison College</a> //
   <a href="https://honorscollege.msu.edu/">Honors College</a> //
   <a href="https://msu.edu/">Michigan State University</a>
-
-
-Working with local leaders, entrepreneurs, innovators, and passionate volunteers to create communities around us.
-</p>
+  </p>
+  
+  
+ <p align="center"> Working with local leaders, entrepreneurs, innovators, and passionate volunteers to create communities around us.</p>
+  
  Interested in getting involved? [Get in touch](mailto:leppekj@gmail.com) – I’m here to connect local initiatives with one another to share knowledge, collaborate, and connect. Capacity building is a long-term investment with numerous benefits now. Extend your network’s reach, become adaptable, and capitalize on existing resources in Michigan. [Connect with me](linkedin.com/in/leppekja) on LinkedIn to start!
 <p align="center">
 Community & economic development starts from within.
