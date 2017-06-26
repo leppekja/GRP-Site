@@ -18,7 +18,8 @@ html {
   background-color: $darkGray;
   background-image: url("http://jacobleppek.org/images/site%20backgroun.png");
   background-repeat: no-repeat;
-  background-size: auto;
+  background-position: top;
+  background-size: 100%;
 }
 
 body {
@@ -33,6 +34,15 @@ body {
   padding: 0 20px;
   width: 100%;
   border-radius: 2px;
+}
+
+.headerupdate {
+  margin: 0 auto;
+  background: $lightGray;
+  max-width:  800;
+  padding: 0 10px;
+  width: 70%;
+  border-radius: 15px;
 }
 
 h1, h2, h3, h4, h5, h6 {
