@@ -1,3 +1,4 @@
 user-agent: *
 Disallow: */.pdf$
 Disallow: /images/Resume_online.pdf
+Disallow: /images/Evidence%20Tables.pdf
