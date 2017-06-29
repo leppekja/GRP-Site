@@ -14,7 +14,7 @@ permalink: /about/
 Working with local leaders, entrepreneurs, innovators, and passionate volunteers to create communities around us.
 </b></p>
 
- Interested in getting involved? [Get in touch](mailto:leppekj@gmail.com) – I’m here to connect local initiatives with one another to share knowledge, collaborate, and connect. Capacity building is a long-term investment with numerous benefits now. Extend your network’s reach, become adaptable, and capitalize on existing resources in Michigan. [Connect with me](linkedin.com/in/leppekja) on LinkedIn to start!
+ Interested in getting involved? [Get in touch](mailto:leppekj@gmail.com) – I’m here to connect local initiatives with one another to share knowledge, collaborate, and connect. Capacity building is a long-term investment with numerous benefits now. Extend your network’s reach, become adaptable, and capitalize on existing resources in Michigan. [Connect with me](https://www.linkedin.com/in/leppekja) on LinkedIn to start!
 <p align="center"><b>
 Community & economic development starts from within.
 </b></p>
@@ -22,7 +22,7 @@ Rather than pursue international development, (my undergraduate focus) I’m sta
 
 <p align="center"><b> Bio </b></p>
 
-After growing up in the Tri-City region, studying in East Lansing, and working in Detroit and the Greater Lansing Area, I’ve seen the multitude of issues Michigan is forced to confront. Yet in the post-2008 revitalization process, I’ve witnessed (and participated in) some brilliant and unique solutions that solve local, regional, and state problems. I’d like to continue this work and contribute to the communities, businesses, and governments that have provided me with scholarships, professional experience, and engaging experiences. [Come join me!](linkedin.com/in/leppekja)
+After growing up in the Tri-City region, studying in East Lansing, and working in Detroit and the Greater Lansing Area, I’ve seen the multitude of issues Michigan is forced to confront. Yet in the post-2008 revitalization process, I’ve witnessed (and participated in) some brilliant and unique solutions that solve local, regional, and state problems. I’d like to continue this work and contribute to the communities, businesses, and governments that have provided me with scholarships, professional experience, and engaging experiences. [Come join me!](https://www.linkedin.com/in/leppekja)
 
 
 ### Job Interests
@@ -38,4 +38,4 @@ History of media systems, developmental economics, political economy, relationsh
 
 [Send Email](mailto:leppekj@gmail.com)
 
-[LinkedIn](linkedin.com/in/leppekja)
+[LinkedIn](https://www.linkedin.com/in/leppekja)
