@@ -18,7 +18,7 @@ Working with local leaders, entrepreneurs, innovators, and passionate volunteers
 <p align="center"><b>
 Community & economic development starts from within.
 </b></p>
-Rather than pursue international development, (my undergraduate focus) I’m starting in Michigan, the place I know best. My current interest is creating diverse collaborative resource networks. Whether they are online or in-person, developing content-sharing partnerships allows for a more comprehensive approach to development – a must for Michigan. My experience working with various nonprofits, community programs, and economic development centers allows me to achieve effective capacity building through networking, online promotion, and program development. Read through my blog to see some highlights of Michigan’s development, promising start-ups, and community initiatives that you should know about.
+Rather than pursue international development (my undergraduate focus), I’m starting in Michigan, the place I know best. My current interest is creating diverse collaborative resource networks. Whether those are online or in-person, developing content-sharing partnerships allows for a more comprehensive approach to development – a must for Michigan. My experience working with various nonprofits, community programs, and economic development centers allows me to achieve effective capacity building through networking, online promotion, and program development. Read through my blog to see some highlights of Michigan’s development, promising start-ups, and community initiatives that you should know about.
 
 <p align="center"><b> Bio </b></p>
 

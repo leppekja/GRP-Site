@@ -20,7 +20,7 @@ Firstly
 في البداية يجب أن ننوّه هنا إلى أن 	First, we should begin by pointing out that
 The theme
 مسألة 	issue
-اشكالية 	dilema/ problematic
+اشكالية 	dilemma/ problematic
 ظاهرة 	phenomenon
 مشكلة 	problem
 سؤال 	question
