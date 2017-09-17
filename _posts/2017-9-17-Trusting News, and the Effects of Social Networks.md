@@ -2,6 +2,7 @@
 layout: post
 title: Trusting News, and the Effects of Social Networks
 ---
+Using networks to understand trust. <!--excerpt-->
 
 After returning from presenting at the 7th Conference on Collaborative Innovation Networks, I'm interested in looking at how trust, specifically in mass media, that is, major news outlets in America, reverberates through social networks, and how online information is disseminated in the networks. The primary question is whether trust can be modeled by social networking analysis. It was also discussed in an article *What's Left of Trust in a Network Society? An
 Evolutionary Model and Critical Discussion of

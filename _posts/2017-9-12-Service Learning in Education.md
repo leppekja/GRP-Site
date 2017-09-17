@@ -2,6 +2,7 @@
 layout: post
 title: Service-Learning in Education
 ---
+An interactive education - ensuring students are involved in their communities. <!--excerpt-->
 In Fall 2016, Michigan State University launched the Community Engaged Scholar Program with 12 students. Partnering with Midtown Detroit, Inc., the program was designed to integrate service into a learning curriculum, and allowed for students to gain a practical understanding of application and implementation. Traveling to Detroit each week ensured an out-of-the-classroom experience. From working in-office with economic development specialists to exploring the city through service projects, the program encouraged interaction with a diverse group of specialists, businessmen and women, residents, and academics to clarify all aspects of development - the positives and negatives.
 
 The National Youth Leadership Council puts it simply:
