@@ -11,7 +11,7 @@ For example, a tool was created a few years back that crowd-sourced opinions on 
 
 Please reach out with thoughts or with tools such as these already in existence. Again, this is **only a rough example, and really offers little to no insight, and is not based in any theory whatsoever;** the answer is not verified and random. It is **only meant to further Javascript coding skills** in the context of this project.
 
-Take a look at [Skeptical Science](https://www.skepticalscience.com/), an excellent example of a fully developed tool which demonstrates how individuals can become their own authoritative source by confirming information heard. While easily accessible, it's likely that many people have not heard of this source.
+Take a look at [Skeptical Science](https://www.skepticalscience.com/), an excellent example of a fully developed tool which demonstrates how individuals can become their own authoritative source by confirming information heard. While easily accessible, it's likely that many people have not heard of this source. Politifact, as another source to verify the veracity of information. 
 
 Click the button when you record an instance of biased reporting.
 

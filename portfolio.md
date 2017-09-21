@@ -24,8 +24,8 @@ The following are examples of various online content I've produced personally an
 
 [Watching America: June 4](http://watchingamerica.com/WA/2017/06/23/america-is-the-renegade/)
 
-[Watching America: July 8 *Featured Article*](http://watchingamerica.com/WA/2017/07/08/the-new-american-strategy-pay-up/)
+[Watching America: July 8 - *Featured Article*](http://watchingamerica.com/WA/2017/07/08/the-new-american-strategy-pay-up/)
 
-[Watching America: September 17 * Featured Article](http://watchingamerica.com/WA/2017/09/17/the-alleged-occupation-this-is-americas-position/)
+[Watching America: September 17 - *Featured Article*](http://watchingamerica.com/WA/2017/09/17/the-alleged-occupation-this-is-americas-position/)
 
 More to follow!
