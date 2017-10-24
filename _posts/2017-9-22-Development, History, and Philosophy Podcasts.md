@@ -5,6 +5,7 @@ title: Development, History, and Philosophy Podcasts for Listening
 High-quality podcasts available online. <!--excerpt-->
 
 **Philosophy**
+
 [PhilosophizeThis](http://philosophizethis.org/)
 Overview of movements/persons. Single-speaker.
 
@@ -15,6 +16,7 @@ Paid, unfortunately. Some free episodes, and worth a listen. Discussion-focused.
 Interview-based. Strong interviewer, and excellent guests.
 
 **Politics**
+
 [The United States of Anxiety](http://www.npr.org/podcasts/527667974/united-states-of-anxiety)
 
 [Still Processing](https://www.nytimes.com/podcasts/still-processing)
@@ -24,6 +26,7 @@ Interview-based. Strong interviewer, and excellent guests.
 [Cape Up-Washington Post](https://soundcloud.com/washington-post)
 
 **Economics**
+
 [Check out this list](http://economicdevelopment.org/category/podcasts/)
 
 [EconTalk](http://www.econtalk.org/)
@@ -55,6 +58,7 @@ Tyler Cowen's blog. I don't have a blog list up yet. Interesting viewpoints on t
 Various speakers/postings.
 
 **History**
+
 [Revisionist History](http://revisionisthistory.com/)
 
 [The History of Rome](http://thehistoryofrome.typepad.com/)
@@ -68,6 +72,7 @@ Etymology/Language. Really interesting.
 Women-centric history podcast
 
 **Science**
+
 [Invisibilia (NPR)](http://www.npr.org/podcasts/510307/invisibilia)
 Podcast is very produced, narrative focused. Typically not for me, but others may enjoy it.
 
