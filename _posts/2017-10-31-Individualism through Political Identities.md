@@ -1,4 +1,9 @@
-Defining ourselves through politics isn't the primary issue - it's how we define ourselves at all. <--excerpt--> Yesterday, David Brooks of the New York Times published an op-ed, [When Politics Becomes Your Idol](https://www.nytimes.com/2017/10/30/opinion/when-politics-becomes-your-idol.html?hpw&rref=opinion&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well), explaining that in the midst of the decline of community, religion, sociality, and general spiritualness, many "use partisan identity to fill the void left when their other attachments wither away." This initial sentiment is largely correct, and he continues:
+---
+layout: post
+title: Individualism through Political Identities
+---
+
+Defining ourselves through politics isn't the primary issue - it's how we define ourselves at all. <!--excerpt--> Yesterday, David Brooks of the New York Times published an op-ed, [When Politics Becomes Your Idol](https://www.nytimes.com/2017/10/30/opinion/when-politics-becomes-your-idol.html?hpw&rref=opinion&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well), explaining that in the midst of the decline of community, religion, sociality, and general spiritualness, many "use partisan identity to fill the void left when their other attachments wither away." This initial sentiment is largely correct, and he continues:
 
 "It should be said that people on the left and on the right who try to use politics to find their moral meaning are turning politics into an idol. Idolatry is what happens when people give ultimate allegiance to something that should be serving only an intermediate purpose, whether it is money, technology, alcohol, success or politics."
 
