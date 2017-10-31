@@ -3,9 +3,9 @@ layout: post
 title: Individualism through Political Identities
 ---
 
-Defining ourselves through politics isn't the primary issue - it's how we define ourselves at all. <!--excerpt--> Yesterday, David Brooks of the New York Times published an op-ed, [When Politics Becomes Your Idol](https://www.nytimes.com/2017/10/30/opinion/when-politics-becomes-your-idol.html?hpw&rref=opinion&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well), explaining that in the midst of the decline of community, religion, sociality, and general spiritualness, many "use partisan identity to fill the void left when their other attachments wither away." This initial sentiment is largely correct, and he continues:
-
-"It should be said that people on the left and on the right who try to use politics to find their moral meaning are turning politics into an idol. Idolatry is what happens when people give ultimate allegiance to something that should be serving only an intermediate purpose, whether it is money, technology, alcohol, success or politics."
+Defining ourselves through politics isn't the primary issue - it's that we define ourselves at all. <!--excerpt--> Yesterday, David Brooks of the New York Times published an op-ed, [When Politics Becomes Your Idol](https://www.nytimes.com/2017/10/30/opinion/when-politics-becomes-your-idol.html?hpw&rref=opinion&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well), explaining that in the midst of the decline of community, religion, sociality, and general spiritualness, many "use partisan identity to fill the void left when their other attachments wither away." This initial sentiment is largely correct, and he continues:
+<p style="padding-left: 30px;">
+It should be said that people on the left and on the right who try to use politics to find their moral meaning are turning politics into an idol. Idolatry is what happens when people give ultimate allegiance to something that should be serving only an intermediate purpose, whether it is money, technology, alcohol, success or politics.</p>
 
 In other words, the general focus on citizens is now on the politics as a process, rather than its proposed ends. Attaching to partisan identities provides a person with a tribe - a tribe often similar in beliefs, interests, and class - that enhances a sense of safety, control, and self. By becoming attached to a political party, we're renewing a false illusion of how we make decisions; outsourcing the need for thought, action, criticism, we learn something about ourselves, we think. Ironically, it's a measure of how Americans may further define and document their individuality by further incorporating beliefs and characteristics into their personality. Being a Democrat is an anchor within a cruel inexplicable world, with values of compassion and idealism. Being a Republican engenders toughness and hard work to overcome the challenges set before you. 
 
@@ -17,7 +17,9 @@ Brooks somewhat touches on parts of this, in slightly different terms. However, 
 <p style="padding-left: 30px;">
 Politics these days makes categorical demands on people. It demands that they remain in a state of febrile excitement caused by this or that scandal or hatred of the moment. But it doesn’t actually transform life or even fill the hole left by the lack of other attachments.
 
+
 If politics is going to get better we need better myths, unifying ones that are built on social equality. But we also need to put politics in its place. The excessive dependence on politics has to be displaced by the expulsive power of more important dependencies, whether family, friendship, neighborhood, community, faith or basic life creed.
+
 
 To be a moderate is to be at war with idolatry. It’s to believe that we become free as we multiply and balance our attachments. It’s to believe that our politics probably can’t be fixed by political means. It needs repair of the deeper communal bonds that politics rest on, and which political conflict cannot heal. </p>
 
