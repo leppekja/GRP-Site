@@ -3,7 +3,7 @@ layout: default
 title: Scholarships & Fellowships for Political Economy and Public Policy
 ---
 
-Assorted materials, an ongoing list.
+Assorted materials, an ongoing list. <!--excerpt-->
 
 [Full-ride PhD. Fellowship for Economics at the George Mason University](https://asp.mercatus.org/)
 Ph.D, Masters, and short-term scholarships are available.
