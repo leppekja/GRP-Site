@@ -20,6 +20,10 @@ The following are examples of various online content I've produced personally an
 [REI January News Update](https://reicenter.org/about/news/apply-to-the-2017-innovation-fellows-program)
 
 
+
+[Collaborative Innovation Networks Conference Paper (available on conference site)](http://detroit17.coinsconference.org/)
+
+
 ### Translations:
 
 [Watching America: June 4](http://watchingamerica.com/WA/2017/06/23/america-is-the-renegade/)
