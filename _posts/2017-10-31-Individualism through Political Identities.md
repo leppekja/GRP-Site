@@ -36,3 +36,7 @@ Replacing undesired attachments with Brooks' preferred values is not a long-term
 Brooks has it wrong when he states that politics has become our idol. It's not that our identities have been subsumed by politics, but that we idolize our identities to the point that we've made politics personal. Brooks quotes this phrase in relation to politics, but ironically, it is the opposite - the illusion of the self - about which he should be more concerned with.
 <p style="padding-left: 30px;">
 “All idols begin by offering great things for a very small price. All idols then fail, more and more consistently, to deliver on their original promises, while ratcheting up their demands. ... In the end they fail completely, even as they make categorical demands. In the memorable phrase of the psychiatrist Jeffrey Satinover, idols ask for more and more, while giving less and less, until eventually they demand everything and give nothing.” </p>
+
+Further Reading
+
+The Righteous Mind - Jonathan Haidt
