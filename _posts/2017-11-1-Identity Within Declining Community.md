@@ -1,0 +1,36 @@
+---
+layout: post
+title: Identity Within Declining Community, and the Future (Post 1 of 5)
+---
+"Most voters cast their ballots on the basis of identity, not policy" <!--excerpt-->
+
+An interesting evidence-based NYT op-ed today, [America is not a 'Center-Right Nation'](https://www.nytimes.com/2017/11/01/opinion/democrats-economic-policy.html), authored by Eric Levitz, provides further evidence to a personal hypothesis proposed in yesterday's post. In it, he supports two primary claims:
+<p style="padding-left: 30px;">
+This argument may sound coolheaded and pragmatic. But its core premises — that American voters are hostile to progressive economics and have punished the (increasingly left-wing) Democratic Party accordingly — actually rest on ideological conviction, not empirical evidence.
+
+In truth, the Republican Party’s dominance has little to do with the American electorate’s “center-right” ideology. We know this for two simple reasons: First, the vast majority of that electorate has no ideology, whatsoever. And second, when polled on discrete policy questions, Americans consistently express majoritarian support for a left-of-center economic agenda.
+</p>
+
+This goes against the easy pop-culture media theories, but I'm certainly comfortable expressing support for it, and believe most would, if given a chance. It has been a striking failure of the leading news outlets and politicians to pinpoint the correct reasons for Trump's successful election; it's as if they run around a canyon, peering over the edge to where the answer lies, and to afraid, or unwilling, to climb to its depths. The ramifactions of these facts, however, are enormous; as protectors of the status quo, I don't find it surprising that such actors would be unwilling to admit that the organizations they serve largely ring hollow. 
+
+I'm not interested too much in disuputing, nor even discussing, the article's claims as he dovetails into an explanation of how Democrats can use this to their advantage, aside from one point. If you agree with what he thinks the problem is, then you should completely agree with his solution - if the Democratic Party intends to be successful in 2018, it either needs to change how it communicates with the electorate, or change the electorate. 
+
+Unfortunately, I disagree with his intentions; both parties need to revamp their foundational beliefs. His prescriptive advice is nothing more than a band-aid solution. He notes one solution "would be to cultivate the class identity of white voters by embracing populist rhetoric that paints “the billionaire class” as an out-group they can define themselves against." That doesn't seem to be very robust in the long term - but please, encourage further class struggle and populist frenzy. As politicians continue to manipulate the voter identities, they will receive short-term gains at the expense of a functioning democracy. At the risk of being misunderstood - I'm not implying that I oppose or support any policy recommendations by any political actor in this paragraph, but merely commenting that how political parties interact with the public - on both sides of the aisle - are incredibly damaging to our country, and on what causes writers like Levitz to offer this solution.
+
+And this is where I turn away from Levitz to address the fundamental issue: as associations of self-interested and irrational individuals, the interactions of political parties are merely indicative of [the failure of many Americans to understand themselves.](https://www.amazon.com/Moral-Animal-Science-Evolutionary-Psychology/dp/0679763996) Other indicators include [the declining sense of community](http://bowlingalone.com/), family, and [religion](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/10/30/the-protestant-reformation-was-500-years-ago-what-needs-reform-in-american-religion-today/) while identity markers such as race, gender, sex, online presence (fame vs obscurity), and social alliances have increased in importance among younger generations. 
+
+By "the failure of many Americans to understand themselves," I mean that in general, Americans are unwilling or unable to interact with the way in which they view the world, that is, [to identify biases in perception](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), acknowledge that [perception inherently fails to provide an accurate understanding of reality](https://www.amazon.com/Why-Buddhism-True-Philosophy-Enlightenment/dp/1439195455), and interact with their own self-identity. In a culture which emphasizes individualism, among an economic system that promotes self-interest, and within a society that promotes self-branding, Americans often are unwilling to confront the self that is supposed to be the essence of their being. Unfortunately, on closer inspection of the self, we find [nothing but awareness](https://www.samharris.org/waking-up). 
+
+It is this tension between the [lack of a self and our socially-constructed individualism](https://plato.stanford.edu/entries/schopenhauer/) that promotes a sense of unease, an existential angst, a feeling of naseau. As [Americans spend an increasing amount of time alone](http://www.newsweek.com/lonely-planet-isolation-increases-us-78647), this tension will further contribute to the [impending mental health crisis](https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/). With this in mind, it is imperative to take action quickly by resolving this understanding of how humans interact in a modern society. 
+
+Before elaborating on each of these claims in turn over the next few posts, I will give a brief overview:
+
+1) How individuals form conceptions of their self-identities and what those are in an American context.
+ 
+2) The decline in community, that may be defined as social capital, as well as apparent increases in partisanship and isolation and changes in other social indicators is due to the changes in how individuals conceive of their self-identities in relation to technological progress.
+
+3) If current practices (as detailed in claim 1) of how we, as individuals, define our self-identities, continue, we will reach a point of social cleavage as the tension between how we organize society and how we perceive ourselves, and at which time our notions of identity will either collapse completely with likely disasterous consequences, or are permanently defined through concrete social organizing.
+
+Claim 1) and 2) I believe are to a large extent supported by evidence - claim 3)? We'll see. 
+
+This post only serves as a primer to these claims and to organize how the argument will proceed from its hypotheses. 
