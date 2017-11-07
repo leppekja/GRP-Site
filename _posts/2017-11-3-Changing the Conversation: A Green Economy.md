@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changing the Conversation: Climate change
+title: Changing the Conversation to a Green Economy
 ---
 
 Minutes ago, [a comprehensive report on climate change funded by 13 U.S. federal agencies was released](https://science2017.globalchange.gov/). <!--excerpt--> Its conclusions are in [direct contradiction](https://www.nytimes.com/2017/11/03/climate/us-climate-report.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news) to the stated policies and intentions of the Trump administration.
