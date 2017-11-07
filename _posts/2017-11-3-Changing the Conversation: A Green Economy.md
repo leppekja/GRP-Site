@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Changing the Conversation: Climate change
 ---
 
