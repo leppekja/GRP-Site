@@ -32,4 +32,6 @@ The following are examples of various online content I've produced personally an
 
 [Watching America: September 17 - *Featured Article*](http://watchingamerica.com/WA/2017/09/17/the-alleged-occupation-this-is-americas-position/)
 
+[Watching America: November 9 - *Featured Article*](http://watchingamerica.com/WA/2017/11/09/americas-forgotten-wars/)
+
 More to follow!
