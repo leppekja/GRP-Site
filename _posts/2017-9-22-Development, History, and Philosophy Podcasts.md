@@ -15,6 +15,8 @@ Paid, unfortunately. Some free episodes, and worth a listen. Discussion-focused.
 [On Being](https://onbeing.org/)
 Interview-based. Strong interviewer, and excellent guests.
 
+[Research On Religion](http://www.researchonreligion.org/)
+
 **Politics**
 
 [The United States of Anxiety](http://www.npr.org/podcasts/527667974/united-states-of-anxiety)
