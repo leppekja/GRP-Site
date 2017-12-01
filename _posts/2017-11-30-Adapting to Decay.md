@@ -1,0 +1,16 @@
+---
+layout: post
+title: It's Adaptability, not Decay
+---
+
+A buzzword, increasingly so for the past year [(longer for some)](https://www.amazon.com/gp/product/B010EUIKDO?ie=UTF8&tag=thewaspos09-20&camp=1789&linkCode=xm2&creativeASIN=B010EUIKDO), is decay; as in, the [decay of democracy](https://www.washingtonpost.com/opinions/our-political-foundation-is-rotting-away/2017/11/29/173a497c-d54d-11e7-b62d-d9345ced896d_story.html?hpid=hp_no-name_opinion-card-f%3Ahomepage%2Fstory). <!--excerpt--> It's a popular starting point in a number of [political commentary](https://mobile.nytimes.com/2017/11/30/opinion/trump-putin-destruction-democracy.html) pieces, following a tried-and-true formula: "in the past, America was something better because of X - now? look at X. Look what the [insert political opponent here] has done to X. We need Y to fix it."
+
+What, exactly, is this process of decay describing? At times, the op-eds are so broad in their condemnations that its initial assumptions aren't questioned. With too short a space to comment on their reasoning, it's clear that we all have our own thoughts on the decline of America's [you insert your issue here]. Persuasive arguments on systemic issues, ironically, aren't kind to generalizations.
+
+Writers are using decay to conflate two distinct trends, one of natural change, and the other of intentional action. Without a doubt, it's difficult to describe these phenomenon, interconnected as they are; yet while the whole of 'decay' may be greater than the sum of its parts, it's clear that these processes, occurring concomitant to international change, need to be distinguished between. Seemingly most concerning to the major news outlets though, quoting [David Brooks'](https://www.washingtonpost.com/posteverything/wp/2016/07/20/the-year-of-democratic-decay/) words here, is the "erosion of accepted norms of political behavior."
+
+The first use of 'decay' to disdainfully refer to the general change in political, social, and cultural norms over time. This is a natural process. The second, more damningly, in reference to the calculated actions of politicians and other social actors to consolidate power and profit at the expense of the functioning of political institutions. [Fukuyama](https://www.the-american-interest.com/2013/12/08/the-decay-of-american-political-institutions/) distinguishes between the two with ease:
+<p style="padding-left: 30px;">
+Many political institutions in the United States are decaying. This is not the same thing as the broader phenomenon of societal or civilization decline, which has become a highly politicized topic in the discourse about America. Political decay in this instance simply means that a specific political process—sometimes an individual government agency—has become dysfunctional.</p>
+
+Political decay is the more manageable topic here - and I can't say that I am a fan of the connotations of the phrase. Isn't the more interesting question that perhaps that government agencies are having trouble adapting to the present circumstances? Of course politicians are going to act in self-interest, and informal political institutions aren't a viable impediment. That shouldn't be surprising.
