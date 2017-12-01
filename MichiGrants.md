@@ -3,7 +3,7 @@ layout: default
 ---
 As part of the planned Stugrants initiative (connecting and teaching high school students about grant writing and community engagement, as seen in [previous post](http://jacobleppek.org/Stugrants/)), this page in currently in progress. Throughout the end of 2017 and 2018, grant opportunities, resources, and other various materials will be included on this page. 
 
-I've compiled a complete list of community foundations in Michigan, by county, which is [accessible here]( leppekja.github.io/images/Michigan Community Foundation Grants.pdf). It includes websites, deadlines, amounts, and eligibility for many of the organizations.  
+I've compiled a complete list of community foundations in Michigan, by county, which is [accessible here]( http://leppekja.github.io/images/Michigan Community Foundation Grants.pdf). It includes websites, deadlines, amounts, and eligibility for many of the organizations.  
 
 Community Foundations: Sample Grants may be accessed here: http://www.forgoodforever.org/Community%20Grants.htm
 
