@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Realities on the Ground
+---
 
 "Mr. Trump should not underestimate the steep human cost of initiating a war against Pyongyang." <!--excerpt-->
 
