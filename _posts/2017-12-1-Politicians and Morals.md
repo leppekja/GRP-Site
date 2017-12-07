@@ -37,13 +37,17 @@ If a liberal democracy were to allow those things, it would no longer be a liber
 
 As demonstrated in my thoughts on the topic, as part of the original post, American democracy doesn't seem to be able to sustain serious cleavages. More specifically, I think that point (2), is inaccurate. We clearly have not "disallowed all means." 
 <ul>
-<li>"some selectivitiy in regard to the fundamental values of those who are allowed to come, and to stay"
+<li>"some selectivity in regard to the fundamental values of those who are allowed to come, and to stay"
+  
 This [blog post](https://www.skepticink.com/tippling/2014/10/11/moral-panics-thoughts-on-immigration/) actually argues for a more robust moral framework with regards to the immigration process. Yet to some extent, it is already embedded in how we select and approve immigrants. A literal eligibility requirement to become a citizen is to be ["a person of good moral character"](https://www.usa.gov/become-us-citizen). We have [education requirements](https://www.usa.gov/green-cards#item-34817). As of the Supreme Court's decision few days ago, your [nationality matters](https://www.nytimes.com/2017/12/04/us/politics/trump-travel-ban-supreme-court.html).
 <li>"constraints on certain kinds of critiques of leaders, authorities and institutions; constraints on free speech that exclude racist or intolerant speech"
+  
 Limits on hate speech exist, of course, but I actually disagree with the idea that constraints on free speech protects against the authoritarian dynamic, rather than the absence of constraints. Certainly, ideas dangerous to the system arise, but also decline; the popular saying of the free market of ideas apply here. This defense has clear weaknesses, especially in a time when absurd amounts of money can be utilized to drown out speakers and possible coordination has improved because of the internet. Yet natural constraints come in and out of existence as well. Definitely is an interesting topic though.
 <li>"some ability to write moral strictures into public policy to reflect traditional beliefs where the majority “draws the line.”
+  
 Are moral strictures not inherently written into public policy by design? Not literally, but policy reflects moral sentiments. Civil rights cases, gay marriage cases (including the current Masterpiece baking shop case)...morality undergirds politics. Even in immoral legislation, and the reaction against it, basic moral beliefs are reflected. The line that Stenner speaks of is flexible. 
   </ul>
+  
   
 The American government is the method to limit and resolve social cleavages, and this power is frequently utilized, whether it be through the judicial, legislative, or executive branch. It's just that it is difficult for society to sustain these, and for politics to function, without some sense of resolution. Without developments in how Americans act toward a less fragmented moral culture, the government won't be able to continue through these divisions. Eventually, and already, it is acting: the tax plan, the administration's positions concerning immigration, finance, religious rights, foreign policy...it is settling the matter, much to the expense of the country's interests.
   
