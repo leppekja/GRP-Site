@@ -51,3 +51,4 @@ Are moral strictures not inherently written into public policy by design? Not li
   
 The American government is the method to limit and resolve social cleavages, and this power is frequently utilized, whether it be through the judicial, legislative, or executive branch. It's just that it is difficult for society to sustain these, and for politics to function, without some sense of resolution. Without developments in how Americans act toward a less fragmented moral culture, the government won't be able to continue through these divisions. Eventually, and already, it is acting: the tax plan, the administration's positions concerning immigration, finance, religious rights, foreign policy...it is settling the matter, much to the expense of the country's interests.
   
+P.P.S. The New York Times Op-ed writers are following each other's leads. Here's Brooks on the [rot of the G.O.P.](https://www.nytimes.com/2017/12/07/opinion/the-gop-is-rotting.html)
