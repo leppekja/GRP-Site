@@ -26,22 +26,21 @@ Succinctly put, it is an attempt to frame how we arrived here through the inhere
 _____
 Moreover, because the mind is a complex system composed of many interacting parts, it makes no sense to ask whether humans are selfish or generous or nasty or noble across the board. Rather, they are driven by competing motives elicited in different circumstances. [-Steven Pinker](https://dash.harvard.edu/bitstream/handle/1/3600799/Pinker_WhyNature.pdf?sequence=2%3F)
 
-We begin, [evolving](https://www.smithsonianmag.com/science-nature/what-darwin-didnt-know-45637001/) and emerging, [out of chaos](https://www.amazon.com/Out-chaos-Louis-Joseph-Halle/dp/03952535780), into an [incomprehensible](https://plato.stanford.edu/entries/camus/) world with immediate survival as our perhaps [primary drive](https://www.psychologynoteshq.com/drive-reduction-theory/).
+We begin, [evolving](https://www.smithsonianmag.com/science-nature/what-darwin-didnt-know-45637001/) and emerging, [out of chaos](https://www.amazon.com/Out-chaos-Louis-Joseph-Halle/dp/03952535780), into an [incomprehensible](https://plato.stanford.edu/entries/camus/) world with immediate survival as our perhaps [primary drive](https://www.psychologynoteshq.com/drive-reduction-theory/). The brain is highly deterministic, just like a cell's processes are automatic. The regulation of many bodily processes occurs largely [without conscious input](https://en.wikipedia.org/wiki/Autonomic_nervous_system).
 
-It's framed in a few different ways, but self-preservation seems to be a universal trait in all. The fight or fight response is apparently a [physiological reaction](https://www.britannica.com/topic/fight-or-flight-response) to perceived threats; even as threats are increasingly [less obvious](https://www.livescience.com/4631-modern-humans-retain-caveman-survival-instincts.html), the [mechanism persists](https://www.huffingtonpost.com/dr-jim-taylor/is-our-survival-instinct-_b_1588157.html).
-
-[This essay](https://public.wsu.edu/%7Etaflinge/biology.html) proposes that the influence of biology on human behavior manifests itself through "1) self-preservation; 2) the reason for self-preservation, reproduction; and 3) a method to enhance self-preservation and reproduction, greed."
-
-The [nature vs. nurture](https://www.psychologytoday.com/blog/abcs-child-psychiatry/201710/nature-versus-nurture-where-we-are-in-2017) binary is an [illusion](https://www.amazon.com/Mirage-Space-between-Nature-Nurture/dp/0822347318) - but the distinction has been [practically necessary](https://dash.harvard.edu/bitstream/handle/1/3600799/Pinker_WhyNature.pdf?sequence=2%3F) (p.14). It's maybe better phrased as [Nature Via Nurture](https://www.theguardian.com/books/2003/mar/30/scienceandnature.features) (No luck on a PDF version. He also [published a 2015 book](https://www.nytimes.com/2015/11/29/books/review/the-evolution-of-everything-by-matt-ridley.html) on similar topics, Ch. 3, 8, 9). The consensus seems to settle around 'well, it's a mix;' a combination between innate genes responding to various stimuli and learned behaviors.  
+It's framed in a few different ways, but self-preservation seems to be a universal trait in all. The fight or fight response is apparently a [physiological reaction](https://www.britannica.com/topic/fight-or-flight-response) to perceived threats; even as threats are increasingly [less obvious](https://www.livescience.com/4631-modern-humans-retain-caveman-survival-instincts.html), the [mechanism persists](https://www.huffingtonpost.com/dr-jim-taylor/is-our-survival-instinct-_b_1588157.html). [This essay](https://public.wsu.edu/%7Etaflinge/biology.html) proposes that the influence of biology on human behavior manifests itself through "1) self-preservation; 2) the reason for self-preservation, reproduction; and 3) a method to enhance self-preservation and reproduction, greed."
 
 With the principle of self-preservation established, how does identity contribute to survival?
 
+The [nature vs. nurture](https://www.psychologytoday.com/blog/abcs-child-psychiatry/201710/nature-versus-nurture-where-we-are-in-2017) binary is an [illusion](https://www.amazon.com/Mirage-Space-between-Nature-Nurture/dp/0822347318) - but the distinction has been [practically necessary](https://dash.harvard.edu/bitstream/handle/1/3600799/Pinker_WhyNature.pdf?sequence=2%3F) (p.14). It's maybe better phrased as [Nature Via Nurture](https://www.theguardian.com/books/2003/mar/30/scienceandnature.features) (No luck on a PDF version. He also [published a 2015 book](https://www.nytimes.com/2015/11/29/books/review/the-evolution-of-everything-by-matt-ridley.html) on similar topics, Ch. 3, 8, 9). The consensus seems to settle around 'well, it's a mix;' a combination between innate genes responding to various stimuli and learned behaviors.  
+
 Humans learn [through stories](https://hbr.org/2014/10/why-your-brain-loves-good-storytelling). Pertaining to societies, evidence exists that storytelling "[arose partly as a way of cementing social bonds, and instilling an ethic of cooperation](https://www.theatlantic.com/science/archive/2017/12/the-origins-of-storytelling/547502/)." To the individual, our minds are narrative-based (https://cseweb.ucsd.edu/~goguen/courses/275f00/gover-narr.html). It links the past to the present, making sense of a set of disparate experiences to better survive in the future. In separate moments, we naturally link cause and effect, inferring from the results, remembering their implications for the future. We assume what's called the [Uniformity Principle](https://plato.stanford.edu/entries/hume/#Cau): the future will be like the past.
 
-
+What we consider consciousness is an emergent property.
 
 ## Section II: Psychological
 _____
+
 "For the egoism which enters into theories does not affect the sincerity; rather, the more our egoism is satisfied, the more robust is our belief." <p style="padding-left: 80px;">
 -George Eliot, Middlemarch, p. 491</p>
 
@@ -64,6 +63,7 @@ https://global.oup.com/academic/product/the-human-animal-9780195134230?cc=us&lan
 
 ## Section III: Social
 _____
+
 A few starting points here:
 
 Our conception of self only exists within society.
@@ -74,6 +74,7 @@ I stumbled across the concept of a ["dialogical self"](https://www.academia.edu/
 
 ## Section IV: Economic
 ____
+
 [When we sell 'authentic' experience, what else is left?](https://www.theguardian.com/artanddesign/2014/may/21/prix-pictet-photography-prize-consumption-slavoj-zizek)
 
 https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads/dp/0385352018
@@ -104,8 +105,8 @@ At this point, I think it's only necessary to be aware of how these cultural pro
 In conclusion, American culture reinforces
 
 
-Section VII: Conclusion
-
+## Section VII: Conclusion
+_____
 Identities are transitory. They are a result of
 It is clear that these factors have strongly contributed to our self-conception.
 It is a reorientation in how we utilize and communicate through a liberal, market-based system that is needed. What, however, does this adjustment look like?

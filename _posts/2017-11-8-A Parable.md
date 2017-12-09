@@ -3,13 +3,11 @@ layout: Post
 title: Parables in Progress
 ---
 
-Imagine waking up to find yourself in a precarious situation. Hanging from the ceiling, cuffed at the wrists, with open water below your feet, extending in all directions to the edges of your vision. You are trapped; the waves splash up against each other, undulating, just beneath your swinging feet.
+Imagine waking up to find yourself in a precarious situation. <!--excerpt-->Hanging from the ceiling, cuffed at the wrists, with open water below your feet, extending in all directions to the edges of your vision. You are trapped; the waves splash up against each other, undulating, just beneath your swinging feet.
 
 Our natural reaction is to struggle against the cuffs, pulling ourselves up, hoping to free ourselves; quickly though, we see that this is hopeless. At this point, then, you may choose how to respond. There is, of course, no purpose in your struggle, no chance of escape, no reward for freedom, and as such, you may conclude that just to hang there is preferable.
 
 Yet as you wait patiently, you start hallucinating. At moments, you see outcroppings of rock just beyond your reach. On them, your desires: family, government, entertainment, each offering relief in their own way. Gaining momentum, you swing your body violently against the cuffs; the tips of your toes grasp each stone for a second before slipping. You spend the next ten years in this fashion, spending days in pain for seconds of pleasure.
-
-And yet there is a third way, one in which
 
 _____
 
