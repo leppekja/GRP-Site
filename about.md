@@ -1,41 +1,38 @@
 ---
 layout: page
-title: Jacob Leppek
+title: Grassroots Philosophy
 permalink: /about/
 ---
 
-<p align="center">
-  <a href="http://jmc.msu.edu/">James Madison College</a> //
-  <a href="https://honorscollege.msu.edu/">Honors College</a> //
-  <a href="https://msu.edu/">Michigan State University</a>
-  </p>
-
 <p align="center"><b>
-Working with local leaders, entrepreneurs, innovators, and passionate volunteers to create communities around us.
+Drinks & discussion for Lansing professionals
+interested in philosophy, politics, economics, and society.
 </b></p>
 
- Interested in getting involved? [Get in touch](mailto:leppekj@gmail.com) – I’m here to connect local initiatives with one another to share knowledge, collaborate, and connect. Capacity building is a long-term investment with numerous benefits now. Extend your network’s reach, become adaptable, and capitalize on existing resources in Michigan. [Connect with me](https://www.linkedin.com/in/leppekja) on LinkedIn to start!
-<p align="center"><b>
-Community & economic development starts from within.
-</b></p>
-Rather than pursue international development (my undergraduate focus), I’m starting in Michigan, the place I know best. My current interest is creating diverse collaborative resource networks. Whether those are online or in-person, developing content-sharing partnerships allows for a more comprehensive approach to development – a must for Michigan. My experience working with various nonprofits, community programs, and economic development centers allows me to achieve effective capacity building through networking, online promotion, and program development. Read through my blog to see some highlights of Michigan’s development, promising start-ups, and community initiatives that you should know about.
+Reading philosophy can be a bit dry — so we’re adding alcohol and discussion to make learning more enjoyable. No obscure name-dropping, and no required  readings, we promise.  Put aside the speed dating pamphlet and come meet interesting people, talk about the big questions, and share your thoughts on difficult questions like the meaning of life and how to live well.
 
-<p align="center"><b> Bio </b></p>
+<p align="center"><b>Interested in getting involved? [Get in touch](mailto:grplansing@gmail.com)!</b></p>
 
-After growing up in the Tri-City region, studying in East Lansing, and working in Detroit and the Greater Lansing Area, I’ve seen the multitude of issues Michigan is forced to confront. Yet in the post-2008 revitalization process, I’ve witnessed (and participated in) some brilliant and unique solutions that solve local, regional, and state problems. I’d like to continue this work and contribute to the communities, businesses, and governments that have provided me with scholarships, professional experience, and engaging experiences. [Come join me!](https://www.linkedin.com/in/leppekja)
+Grassroots Philosophy is a weekly discussion group in Lansing, MI for casual philosophers. Designed as a comprehensive resource for community members to engage in thoughtful discussion, the group forgoes topical issues to examine the assumptions that modern society frequently takes for granted. Drawing from psychology, philosophy, biology, behavioral economics, anthropology, history, neuroscience, and a number of other disciplines, the group looks at the most prominent questions that individuals must face in the 21st century.
 
+Inspired by other philosophy clubs around the world, Grassroots Philosophy brings a sense of community through thoughtful and enjoyable discussion to Lansing.
 
-### Job Interests
+<p align="center"><i>“The main task of philosophy clubs is to turn into collective movements of social change, which are capable of tackling the great problems of our age. If we just obsesses about our own lifestyles, I don’t think we’ll get very far.”</i> -[Roman Krznaric](https://www.philosophersmag.com/essays/92-grassroots-philosophy)</p>
 
-Social innovation, non-profit organizations, start-ups, sustainability, government relations, communications, social media campaigns, network development, fundraising, grant writing, research associate, Salesforce, translation.
+### The Format
 
-### Academic Research Interests
+Each meeting is an hour and a half. The first ten minutes are reserved for an opening statement on the day's topic, with volunteers contributing their questions and thoughts for the group. A sign up list is available if you're interested in sharing your research or thoughts on a certain day at each meeting. The next eighty minutes are spent in free discussion. Depending on the size of the group, small groups may be formed, or everyone may participate in a single discussion.
 
-History of media systems, developmental economics, political economy, relationship between governance and media freedoms.
+Depending on meeting location, alcohol may or may not be provided for adults over 21 years of age. Non-alcoholic drinks will always be available. You may bring your own spirits. Please drink responsibly. You will be asked to leave if disruptive.
 
+Meeting topics are available in advance each week by Monday, along with companion readings. It is not required to read or research before the meeting. Feel free to peruse these resources at your leisure, or not at all.
+
+There is no need to RSVP to any meeting. Feel free to simply come and listen - don't feel obligated to speak if you'd rather not. Don't hesitate to speak, though - we're nice people.
+
+### Contribute Your Thoughts...
+
+Interested in contributing to the Grassroots Philosophy Blog? GRP accepts writings on a variety of topics, just like in our discussions. Feel free to send opinion pieces, fiction, research, and historical analysis to grplansing@gmail.com. Please limit your contributions to once a week, and under 1,500 words, in a Word document. Accepted works will be contacted over email within one week of submission.
 
 ### Contact Information
 
 [Send Email](mailto:leppekj@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/leppekja)
