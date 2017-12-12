@@ -18,7 +18,7 @@ Grassroots Philosophy is a weekly discussion group in Lansing, MI for casual phi
 
 Inspired by other philosophy clubs around the world, Grassroots Philosophy brings a sense of community through thoughtful and enjoyable discussion to Lansing.
 
-<p align="center"><i>“The main task of philosophy clubs is to turn into collective movements of social change, which are capable of tackling the great problems of our age. If we just obsesses about our own lifestyles, I don’t think we’ll get very far.”</i> - <a href="https://www.philosophersmag.com/essays/92-grassroots-philosophy">Roman Krznaric</a></p>
+<p align="center"><i>“The main task of philosophy clubs is to turn into collective movements of social change, which are capable of tackling the great problems of our age. If we just obsess about our own lifestyles, I don’t think we’ll get very far.”</i> - <a href="https://www.philosophersmag.com/essays/92-grassroots-philosophy">Roman Krznaric</a></p>
 
 ### The Format
 
