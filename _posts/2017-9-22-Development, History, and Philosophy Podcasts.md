@@ -59,6 +59,9 @@ Tyler Cowen's blog. I don't have a blog list up yet. Interesting viewpoints on t
 [CGD Podcast](https://www.cgdev.org/blog/podcasts-development)
 Various speakers/postings.
 
+[Free Thoughts](https://www.libertarianism.org/podcasts)
+A libertarian-oriented podcast
+
 **History**
 
 [Revisionist History](http://revisionisthistory.com/)
@@ -83,3 +86,9 @@ Podcast is very produced, narrative focused. Typically not for me, but others ma
 [Science Vs](https://gimletmedia.com/science-vs/)
 
 [RadioLab](http://www.radiolab.org/)
+
+[Scientific American](https://www.scientificamerican.com/podcasts/)
+
+**Miscellaneous**
+
+[Waking Up](https://www.samharris.org/podcast)
