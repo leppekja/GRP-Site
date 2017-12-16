@@ -18,9 +18,9 @@ Munch, portrayed alone here, his friends walk off ahead distracted by one anothe
 
 His despair quickly gives way to pain as his humanity is literally destroyed:
 
-<div style="text-align: center">
+
 <img src="http://leppekja.github.io/images/the-scream.jpg" alt="The Scream, Edvard Munch 1893>
-</div>
+
 
 The landscape dissolves into a recognizable flow of energy, with color solely differentiating between our usual understanding of the material and immaterial. The land, the sky, the water, the rock; all are further abstracted to swirling lines. Their momentum overtakes the city in blackness and reduces the ships to thin black lines against the bright light reflecting off the water. The staid railing now stands in further contrast to the wavy landscape, the only safety from falling; the light harshly reflecting off and the bright oranges and reds are assaulting its frame near the bottom-right corner.
 
