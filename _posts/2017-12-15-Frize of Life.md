@@ -30,5 +30,5 @@ And finally, the collective anxiety of those who remain. Their features already 
 
 <div style="text-align: center">
 (Picture)
-<img src="/images {{ anxiety.jpg }}">
+<img src="/images {{ /anxiety.jpg }}">
 </div>
