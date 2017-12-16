@@ -9,7 +9,7 @@ To look out to the natural world is overwhelming. Every moment we spend looking 
 In the awareness of our defeat, we despair:
 
 <div style="text-align: center">
-<img src="http://leppekja.github.io/images/despair-1892.jpg" alt="Despair, Edvard Munch 1892>
+<img src="/images/despair-1892.jpg">
 </div>
 
 Notice the brushstrokes pulling Munch into the corner of the landscape, blurring his entire being into the background that dominates the artwork, his once-unique facial features totally absent. The landscape, with its bright streaks of red in the sky and notable ships in the distance, the careful coloring of the cliff, is given more attention then the subject of the painting himself. He is not at the center of his own experience; rather, it is the cause of his despair: the unyielding, immense world around him. The wooden railing, with its three straight bars, is the only thing that holds him, and the only fully defined feature.
