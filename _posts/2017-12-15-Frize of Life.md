@@ -29,5 +29,5 @@ Munch, as portrayed in the painting, is now a figure, not recognizable as the sm
 And finally, the collective anxiety of those who remain. Their features already distorted slightly, their clothing binds them to their humanity. It's depicted as the subjects are aware of their eventual fate. Even if the world around them has calmed down, biding its time, they understand the precarious position they are in.
 
 <div style="text-align: center">
-<img src="/images/anxiety.jpg" alt="The Scream">
+<img src="/images/anxiety.jpg" alt="Anxiety">
 </div>
