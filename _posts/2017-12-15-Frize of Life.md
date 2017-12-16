@@ -9,7 +9,7 @@ To look out to the natural world is overwhelming. Every moment we spend looking 
 In the awareness of our defeat, we despair:
 
 <div style="text-align: center">
-<img src="/images/despair-1892.jpg">
+<img src="/images/despair-1892.jpg" alt="Despair">
 </div>
 
 Notice the brushstrokes pulling Munch into the corner of the landscape, blurring his entire being into the background that dominates the artwork, his once-unique facial features totally absent. The landscape, with its bright streaks of red in the sky and notable ships in the distance, the careful coloring of the cliff, is given more attention then the subject of the painting himself. He is not at the center of his own experience; rather, it is the cause of his despair: the unyielding, immense world around him. The wooden railing, with its three straight bars, is the only thing that holds him, and the only fully defined feature.
@@ -18,9 +18,9 @@ Munch, portrayed alone here, his friends walk off ahead distracted by one anothe
 
 His despair quickly gives way to pain as his humanity is literally destroyed:
 
-
-<img src="http://leppekja.github.io/images/the-scream.jpg" alt="The Scream, Edvard Munch 1893>
-
+<div style="text-align: center">
+<img src="/images/the-scream.jpg">
+</div>
 
 The landscape dissolves into a recognizable flow of energy, with color solely differentiating between our usual understanding of the material and immaterial. The land, the sky, the water, the rock; all are further abstracted to swirling lines. Their momentum overtakes the city in blackness and reduces the ships to thin black lines against the bright light reflecting off the water. The staid railing now stands in further contrast to the wavy landscape, the only safety from falling; the light harshly reflecting off and the bright oranges and reds are assaulting its frame near the bottom-right corner.
 
@@ -29,6 +29,5 @@ Munch, as portrayed in the painting, is now a figure, not recognizable as the sm
 And finally, the collective anxiety of those who remain. Their features already distorted slightly, their clothing binds them to their humanity. It's depicted as the subjects are aware of their eventual fate. Even if the world around them has calmed down, biding its time, they understand the precarious position they are in.
 
 <div style="text-align: center">
-(Picture)
-<img src="/images {{ /anxiety.jpg }}">
+<img src="/images/anxiety.jpg" alt="The Scream">
 </div>
