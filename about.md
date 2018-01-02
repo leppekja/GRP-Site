@@ -12,7 +12,7 @@ interested in philosophy, politics, economics, and society.
 Reading philosophy can be a bit dry — so we’re adding alcohol and discussion to make learning more enjoyable. No obscure name-dropping, and no required  readings, we promise.  Put aside the speed dating pamphlet and come meet interesting people, talk about the big questions, and share your thoughts on difficult questions like the meaning of life and how to live well.
 
 <p align="center"><b>Interested in getting involved? <a href="mailto:grplansing@gmail.com">Get in touch!</a>
-Meetings are 6:30 PM on Thursdays; check calendar for location.</b></p>
+Meetings are 6:30 PM on Thursdays at the Lansing Brewing Company.</b></p>
 
 Grassroots Philosophy is a weekly discussion group in Lansing, MI for casual philosophers. Designed as a comprehensive resource for community members to engage in thoughtful discussion, the group forgoes topical issues to examine the assumptions that modern society frequently takes for granted. Drawing from psychology, philosophy, biology, behavioral economics, anthropology, history, neuroscience, and a number of other disciplines, the group looks at the most prominent questions that individuals must face in the 21st century.
 
