@@ -10,7 +10,6 @@ _____
 - [On Being](https://onbeing.org/)
 - [Research On Religion](http://www.researchonreligion.org/)
 - [Very Bad Wizards](https://verybadwizards.fireside.fm/)
-- [Waking Up](https://www.samharris.org/podcast)
 
 **Politics**
 - [The United States of Anxiety](http://www.npr.org/podcasts/527667974/united-states-of-anxiety)
@@ -47,6 +46,10 @@ _____
 - [Science Vs](https://gimletmedia.com/science-vs/)
 - [RadioLab](http://www.radiolab.org/)
 - [Scientific American](https://www.scientificamerican.com/podcasts/)
+
+**Misc.**
+- [Waking Up](https://www.samharris.org/podcast)
+- [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
 
 #### Writing and Watching
 ____
@@ -100,6 +103,7 @@ ____
 - [Philosopher's Beard](http://www.philosophersbeard.org/)
 - [Philosophy Now](https://philosophynow.org/)
 - [Reality Seeker](https://realityseeker.org/)
+- [You Are Not So Smart](https://youarenotsosmart.com/)
 
 **Misc. Blogs**
 - [Marcelo Gleiser](http://marcelogleiser.com/blog/)
