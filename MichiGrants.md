@@ -81,14 +81,12 @@ ____
 - [A Philosopher's Take](https://aphilosopherstake.com)
 - [All About...](https://www.allaboutphilosophy.org/)
 - [Daily Nous](http://dailynous.com/)
-- [Marginal Revolution](http://marginalrevolution.com/)
 - [Doing Things with Philosophy](https://doingthingswithphilosophy.tumblr.com/)
 - [Entia et Nomina](https://entiaetnomina.blogspot.com/)
 - [Ethics Etc.](http://ethics-etc.com/)
 - [Experimental Philosophy](http://experimental-philosophy.yale.edu/ExperimentalPhilosophy.html)
 - [Extinct](http://www.extinctblog.org/)
 - [David Chalmers](http://consc.net/)
-- [Language Log](http://languagelog.ldc.upenn.edu/nll/)
 - [Leiter Reports](http://leiterreports.typepad.com/)
 - [M-Phi](https://m-phi.blogspot.com/)
 - [Notre Dame Philosophical Reviews](http://ndpr.nd.edu/recent-reviews/)
@@ -102,6 +100,11 @@ ____
 - [Philosopher's Beard](http://www.philosophersbeard.org/)
 - [Philosophy Now](https://philosophynow.org/)
 - [Reality Seeker](https://realityseeker.org/)
+
+**Misc. Blogs**
+- [Marcelo Gleiser](http://marcelogleiser.com/blog/)
+- [Language Log](http://languagelog.ldc.upenn.edu/nll/)
+- [Marginal Revolution](http://marginalrevolution.com/)
 
 Please reach out if your favorite source is missing!
 
