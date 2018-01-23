@@ -2,9 +2,8 @@
 layout: default
 title: Learning Resources
 ---
-____
-
 #### Podcasts:
+_____
 **Philosophy**
 - [PhilosophizeThis](http://philosophizethis.org/)
 - [A Partially Examined Life](https://partiallyexaminedlife.com/)
@@ -50,6 +49,7 @@ ____
 - [Scientific American](https://www.scientificamerican.com/podcasts/)
 
 #### Writing and Watching
+____
 **News Organizations/Social Commentary:**
 - [The New York Times](https://www.nytimes.com/)
 - [Washington Post](https://www.washingtonpost.com/)
