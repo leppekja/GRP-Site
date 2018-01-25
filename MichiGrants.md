@@ -8,8 +8,14 @@ _____
 - [PhilosophizeThis](http://philosophizethis.org/)
 - [A Partially Examined Life](https://partiallyexaminedlife.com/)
 - [On Being](https://onbeing.org/)
-- [Research On Religion](http://www.researchonreligion.org/)
+- [Philosophy Now](https://philosophynow.org/podcasts)
 - [Very Bad Wizards](https://verybadwizards.fireside.fm/)
+
+**Religion**
+- [Research On Religion](http://www.researchonreligion.org/)
+- [Secular Buddhism](https://secularbuddhism.com/podcast/)
+- [Dharma (Upaya Institute)](https://www.upaya.org/dharmatalks/)
+
 
 **Politics**
 - [The United States of Anxiety](http://www.npr.org/podcasts/527667974/united-states-of-anxiety)
@@ -18,6 +24,8 @@ _____
 - [Cape Up-Washington Post](https://soundcloud.com/washington-post)
 - [NYT The Daily](https://www.nytimes.com/podcasts/the-daily)
 - [International Crisis Group](https://www.crisisgroup.org/latest-updates/podcast)
+- [Pod Save America](https://crooked.com/)
+- [FiveThirtyEight](https://fivethirtyeight.com/tag/fivethirtyeight-podcasts/)
 
 **Economics**
 - [Check out this list](http://economicdevelopment.org/category/podcasts/)
@@ -50,6 +58,7 @@ _____
 **Misc.**
 - [Waking Up](https://www.samharris.org/podcast)
 - [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
+- [Resonance FM](https://www.resonancefm.com/programmes)
 
 #### Writing and Watching
 ____
