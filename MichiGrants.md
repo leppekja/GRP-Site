@@ -39,6 +39,7 @@ _____
 *Just went on hiatus in June, unfortunately...*
 - [CGD Podcast](https://www.cgdev.org/blog/podcasts-development)
 - [Free Thoughts](https://www.libertarianism.org/podcasts)
+- [Talking Africa -Resonance FM](https://www.resonancefm.com/programmes)
 
 **History**
 - [Revisionist History](http://revisionisthistory.com/)
