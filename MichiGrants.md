@@ -26,6 +26,7 @@ _____
 - [International Crisis Group](https://www.crisisgroup.org/latest-updates/podcast)
 - [Pod Save America](https://crooked.com/)
 - [FiveThirtyEight](https://fivethirtyeight.com/tag/fivethirtyeight-podcasts/)
+- [Lawfare](https://lawfareblog.com/topic/podcasts)
 
 **Economics**
 - [Check out this list](http://economicdevelopment.org/category/podcasts/)
@@ -87,6 +88,7 @@ ____
 - [Mises.org](https://mises.org/library)
 - [Big Think](http://bigthink.com/articles?blog=Mind-Matters)
 - [Libertarianism.org](https://www.libertarianism.org/)
+- [Lawfare](https://lawfareblog.com/)
 
 **Blogs**
 - [BrainPickings](https://www.brainpickings.org/)
