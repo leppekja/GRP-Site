@@ -4,10 +4,6 @@ title: Learning Resources
 ---
 #### Podcasts:
 _____
-| **Philosophy**                                                    |                                                        |
-|-------------------------------------------------------------------|--------------------------------------------------------|
-| - [PhilosophizeThis](http://philosophizethis.org/)                | - [On Being](https://onbeing.org/)                     |
-| - [A Partially Examined Life](https://partiallyexaminedlife.com/) | - [Philosophy Now](https://philosophynow.org/podcasts) |
 
 **Philosophy**
 - [PhilosophizeThis](http://philosophizethis.org/)
