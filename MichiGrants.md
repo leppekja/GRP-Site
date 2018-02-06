@@ -154,6 +154,17 @@ Below is a list of books that I either have read or written down to read at a la
 | [The Consolations of Philosophy](https://www.worldcat.org/title/consolations-of-philosophy/oclc/958129585&referer=brief_results); Alain De Botton                                                   | * by [Leszek Kolakowski](https://en.wikipedia.org/wiki/Leszek_Ko%C5%82akowski)                                                                                                                                                                                 |
 | [Somebodies And Nobodies](https://www.worldcat.org/title/all-rise-somebodies-nobodies-and-the-politics-of-dignity/oclc/62408817); Robert Fuller                                                                                                                                         | [Guns, Germs, and Steel](https://www.worldcat.org/title/guns-germs-and-steel-the-fates-of-human-societies/oclc/986783479&referer=brief_results); Jared Diamond                                      |
 | [Nothing Special](https://www.worldcat.org/title/nothing-special-living-zen/oclc/989344876&referer=brief_results); Joko Beck                                                                                                                                   | [The Golden Journey to Samarkand](https://www.worldcat.org/title/golden-journey-to-samarkand/oclc/1748319); James Elroy Flecker
+| [What is Ancient Philosophy?](); Pierre Hadot | [The Little Philosophy Book](); Robert Solomon |
+| [Symposium](); Plato | [The Republic](); Plato |
+| [Philosophy as a Way of Life](); Pierre Hadot | [A Guide to the Good Life](); W. B. Irvine |
+| [The Swerve: How the World Became Modern](https://www.worldcat.org/title/swerve-how-the-world-became-modern/oclc/1014048374&referer=brief_results); Stephen Greenblatt | [Epicurians and Stoics](); Axios Institute |
+| [Walden](); Thoreau | [Deliverance from Evil](); Al-Ghazali |
+| [The Sufis](); Idries Shah | The Meditations(https://www.worldcat.org/title/meditations-on-first-philosophy/oclc/255664369&referer=brief_results); Descartes |
+| [Pensées](https://www.worldcat.org/title/pensees/oclc/1005817049?referer=di&ht=edition); Pascal | [The Village of Waiting](); George Packer |
+| [White Working Class](); Joan C. Williams | [Anarchy, State, and Utopia](); Robert Nozick |
+| [Identity Economics](); George Akerlof | [When Things Fall Apart](); Pema Chodron |
+| [Neither Liberal Nor Conservative](https://www.worldcat.org/title/neither-liberal-nor-conservative-ideological-innocence-in-the-american-public/oclc/958779971&referer=brief_results); Kinder & Kalmoe | [#Republic: Divided Democracy in Social Media](); Cass Sunstein |
+
 
 ### Grants
 ____
