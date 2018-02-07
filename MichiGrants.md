@@ -74,6 +74,7 @@ ____
 - [The Atlantic](https://www.theatlantic.com/)
 - [Nautilus](http://nautil.us/)
 - [Aeon Magazine](https://aeon.co/)
+- [Aero Magazine](https://areomagazine.com/)
 
 **Think Tanks/Nonprofits/Social Learning:**
 - [The Institute of Art and Ideas](https://iai.tv/)
