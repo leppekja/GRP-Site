@@ -75,6 +75,7 @@ ____
 - [Nautilus](http://nautil.us/)
 - [Aeon Magazine](https://aeon.co/)
 - [Aero Magazine](https://areomagazine.com/)
+- [Current Affairs](https://www.currentaffairs.org/)
 
 **Think Tanks/Nonprofits/Social Learning:**
 - [The Institute of Art and Ideas](https://iai.tv/)
