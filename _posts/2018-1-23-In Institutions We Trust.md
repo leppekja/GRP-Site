@@ -14,7 +14,7 @@ We'll start, briefly, with a review of the role of institutions in society. Inst
 
 What makes institutions valuable? On a societal scale, successful institutions are those which are agreed upon by involved parties, either implicitly or explicitly. W/r/t implicit agreements, being a white male American, traditionally, is an example of an implicit recognition of a certain value system; more widely, states sign [social contracts](http://www.iep.utm.edu/soc-cont/) with their citizens. The primary value measurement here is how often an institution is disrupted. Concerning individuals, however, value measurements are more ends-focused i.e. the specific perceived benefit they receive from acquiescing to the institution's expectations. Communities, or in other small-to-medium group settings, allow for a more equal weighing of compliance and reward while determining successful institutions. 
 
-A cohesive definition of a successful institution is then a widely adopted pattern of behavior that facilitates optimal results between interactions of individuals.
+For this essay, the definition of a successful informal institution is then a widely adopted pattern of behavior that facilitates optimal results between interactions of individuals. 
 
 It seems that a trade-off between compliance and benefit is necessary in every practical circumstance. Once groups grow large enough, individuals' initial aims will diverge into incompatible interests, thus fostering disagreement. Hence, the formal institutions of government emerge and accompany informal methods of interaction, designed specifically to mitigate losses from this compliance/value tension. 
 
