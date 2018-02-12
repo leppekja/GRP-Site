@@ -76,6 +76,8 @@ ____
 - [Aeon Magazine](https://aeon.co/)
 - [Aero Magazine](https://areomagazine.com/)
 - [Current Affairs](https://www.currentaffairs.org/)
+- [Behavioral Science](http://behavioralscientist.org/)
+- [Knowable Magazine](https://www.knowablemagazine.org/)
 
 **Think Tanks/Nonprofits/Social Learning:**
 - [The Institute of Art and Ideas](https://iai.tv/)
