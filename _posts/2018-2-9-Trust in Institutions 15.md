@@ -31,7 +31,7 @@ This essay isn’t meant to judge the merits of such a shift, but to identify th
 
 In the next post, I’ll expand on this conclusion, especially how the role of institutions has changed over time. 
 
-
+P.S. Aeon Magazine posted this a few days later on [why we love tyrants](https://aeon.co/essays/the-omnipotent-victim-how-tyrants-work-up-a-crowds-devotion/).
 
 
 
