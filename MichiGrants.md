@@ -121,8 +121,7 @@ ____
 - [Philosophy Now](https://philosophynow.org/)
 - [Reality Seeker](https://realityseeker.org/)
 - [You Are Not So Smart](https://youarenotsosmart.com/)
-
-**Misc. Blogs**
+- [In a State of Migration](https://medium.com/migration-issues)
 - [Marcelo Gleiser](http://marcelogleiser.com/blog/)
 - [Language Log](http://languagelog.ldc.upenn.edu/nll/)
 - [Marginal Revolution](http://marginalrevolution.com/)
