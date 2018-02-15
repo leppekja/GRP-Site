@@ -62,6 +62,7 @@ _____
 - [Waking Up](https://www.samharris.org/podcast)
 - [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
 - [Resonance FM](https://www.resonancefm.com/programmes)
+- [The Hedgehog & The Fox](https://www.podularity.com/thehedgehogandthefox/)
 
 #### Writing and Watching
 ____
@@ -79,7 +80,7 @@ ____
 - [Behavioral Science](http://behavioralscientist.org/)
 - [Knowable Magazine](https://www.knowablemagazine.org/)
 
-**Think Tanks/Nonprofits/Social Learning:**
+**Think Tanks/Nonprofits/Publications/Social Learning:**
 - [The Institute of Art and Ideas](https://iai.tv/)
 - [Stanford Dictionary of Philosophy](https://plato.stanford.edu/)
 - [Nautilus](http://nautil.us/)
@@ -94,6 +95,7 @@ ____
 - [Big Think](http://bigthink.com/articles?blog=Mind-Matters)
 - [Libertarianism.org](https://www.libertarianism.org/)
 - [Lawfare](https://lawfareblog.com/)
+- [The Hedgehog Review](http://iasc-culture.org/THR/index.php)
 
 **Blogs**
 - [BrainPickings](https://www.brainpickings.org/)
