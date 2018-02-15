@@ -125,8 +125,12 @@ ____
 - [Marcelo Gleiser](http://marcelogleiser.com/blog/)
 - [Language Log](http://languagelog.ldc.upenn.edu/nll/)
 - [Marginal Revolution](http://marginalrevolution.com/)
+- [Russ Roberts' Blog](https://medium.com/@russroberts)
+- [Nassim Nicholas Taleb](https://medium.com/@nntaleb)
 
 Please reach out if your favorite source is missing!
+
+Also, if you're a budding political pundit: visit [Good Judgement Open](https://www.gjopen.com/). Learn how to forecast developments throughout the world and test your judgement skills. Pretty fascinating, especially [this advice](https://www.edge.org/conversation/win-at-forecasting).
 
 ### A Reading List
 
@@ -183,7 +187,13 @@ Below is a list of books that I either have read or written down to read at a la
 | [The House on the Embankment](https://www.worldcat.org/title/house-on-the-embankment/oclc/13413973&referer=brief_results); Nuri Trifonov | [Gulag Archipelago](https://www.worldcat.org/title/gulag-archipelago/oclc/948687595&referer=brief_results); Alexander Solzhenitsyn |
 | [Socialism](https://www.worldcat.org/title/socialist-phenomenon/oclc/859351325&referer=brief_results); Igor Shafarevich | [The World as Will and Representation](https://www.worldcat.org/title/world-as-will-and-representation/oclc/234092681&referer=brief_results); Arthur Schopenhauer |
 | [Blurred Lines...](https://www.worldcat.org/title/blurred-lines-rethinking-sex-power-and-consent-on-campus/oclc/1016796695&referer=brief_results); Vanessa Grigoriadis | [Hopscotch: A Novel](https://www.worldcat.org/title/hopscotch-a-novel/oclc/885020297&referer=brief_results); Julio Cortazar |
-| [Love: A Very Short Introduction](https://www.worldcat.org/title/love-a-very-short-introduction/oclc/945568918&referer=brief_results); Ronald De Sousa | 
+| [Love: A Very Short Introduction](https://www.worldcat.org/title/love-a-very-short-introduction/oclc/945568918&referer=brief_results); Ronald De Sousa | [Simulacra and Simulation](https://www.worldcat.org/title/simulacra-and-simulation/oclc/934076321&referer=brief_results); John Baudrillard |
+| * by [John Keats](https://en.wikipedia.org/wiki/John_Keats) | * by [Walter Lippmann](https://en.wikipedia.org/wiki/Walter_Lippmann) |
+| [The Hedgehog & The Fox](https://www.worldcat.org/title/hedgehog-and-the-fox/oclc/982276685&referer=brief_results); Isaiah Berlin | [How to be Yourself](https://www.worldcat.org/title/how-to-be-yourself-quiet-your-inner-critic-and-rise-above-social-anxiety/oclc/983605352&referer=brief_results); Ellen Hendrickson |
+| [The Attention Merchants...](https://www.worldcat.org/title/attention-merchants-from-the-daily-newspaper-to-social-media-how-our-time-and-attention-is-harvested-and-sold/oclc/967756646&referer=brief_results); Tim Wu | [Rigged...](https://www.worldcat.org/title/rigged-how-globalization-and-the-rules-of-the-modern-economy-were-structured-to-make-the-rich-richer/oclc/972322312&referer=brief_results); Dean Baker |
+| Godel, Escher, Bach...](https://www.worldcat.org/title/godel-escher-bach-an-eternal-golden-braid/oclc/750541259&referer=brief_results); Douglas Hofstadter | [The Black Swan](https://www.worldcat.org/title/black-swan-the-impact-of-the-highly-improbable/oclc/1012852841&referer=brief_results); Nassim Taleb |
+|Breakfast of Champions](https://www.worldcat.org/title/breakfast-of-champions-or-goodbye-blue-monday/oclc/932204497&referer=brief_results); Kurt Vonnegut | [Superforecasting](https://www.worldcat.org/title/superforecasting-the-art-and-science-of-prediction/oclc/950418069&referer=brief_results); Phil Tetlock & Gardner |
+| [For Marx](); Louis Althusser |
 
 
 ### Grants
