@@ -96,6 +96,7 @@ ____
 - [Libertarianism.org](https://www.libertarianism.org/)
 - [Lawfare](https://lawfareblog.com/)
 - [The Hedgehog Review](http://iasc-culture.org/THR/index.php)
+- [Longreads](https://longreads.com/)
 
 **Blogs**
 - [BrainPickings](https://www.brainpickings.org/)
