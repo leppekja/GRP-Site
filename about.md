@@ -26,7 +26,7 @@ Read more about grassroots philosophy clubs [in this report](http://www.philosop
 
 Each meeting is an hour and a half. The first ten minutes are reserved for an opening statement on the day's topic, with volunteers contributing their questions and thoughts for the group. A sign up list is available if you're interested in sharing your research or thoughts on a certain day at each meeting. The next eighty minutes are spent in free discussion. Depending on the size of the group, small groups may be formed, or everyone may participate in a single discussion.
 
-Depending on meeting location, alcohol may or may not be provided for adults over 21 years of age. Non-alcoholic drinks will always be available. You may bring your own spirits. Please drink responsibly. You will be asked to leave if disruptive.
+Depending on meeting location, alcohol may or may not be provided for adults over 21 years of age. Non-alcoholic drinks will always be available. Please drink responsibly. You will be asked to leave if disruptive.
 
 Meeting topics are available in advance each week by Monday, along with companion readings. It is not required to read or research before the meeting. Feel free to peruse these resources at your leisure, or not at all.
 
@@ -34,8 +34,9 @@ There is no need to RSVP to any meeting. Feel free to simply come and listen - d
 
 ### Contribute Your Thoughts...
 
-Interested in contributing to the Grassroots Philosophy Blog? GRP accepts writings on a variety of topics, just like in our discussions. Feel free to send opinion pieces, fiction, research, and historical analysis to grplansing@gmail.com. Please limit your contributions to once a week, and under 1,500 words, in a Word document. Accepted works will be contacted over email within one week of submission.
+Interested in contributing to the Grassroots Philosophy Blog? GRP accepts writings on a variety of topics, just like in our discussions. Feel free to send opinion pieces, fiction, research, and historical analysis to grplansing@gmail.com. Please limit your contributions to once a week, and under 1,500 words, in a Word document. Accepted works will be contacted over email within one week of submission. Find some good advice here on [philosophical opinion writing](https://blog.apaonline.org/2016/05/23/ten-rules-of-thumb-for-op-ed-writing/)
 
 ### Contact Information
 
-[Send Email](mailto:leppekj@gmail.com)
+[Send Email](mailto:grplansing@gmail.com)
+Twitter: @GRPLansing
