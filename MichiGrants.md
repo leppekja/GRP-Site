@@ -97,6 +97,9 @@ ____
 - [Lawfare](https://lawfareblog.com/)
 - [The Hedgehog Review](http://iasc-culture.org/THR/index.php)
 - [Longreads](https://longreads.com/)
+- [Veritas Forum](http://www.veritas.org/)
+- [People Science](http://peoplescience.maritz.com/) - Site coming soon.
+- [Philosophy Talk](https://www.philosophytalk.org/)
 
 **Blogs**
 - [BrainPickings](https://www.brainpickings.org/)
@@ -130,6 +133,7 @@ ____
 - [Marginal Revolution](http://marginalrevolution.com/)
 - [Russ Roberts' Blog](https://medium.com/@russroberts)
 - [Nassim Nicholas Taleb](https://medium.com/@nntaleb)
+- [Morten Jerven](http://mortenjerven.com/)
 
 Please reach out if your favorite source is missing!
 
