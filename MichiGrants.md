@@ -63,6 +63,7 @@ _____
 - [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
 - [Resonance FM](https://www.resonancefm.com/programmes)
 - [The Hedgehog & The Fox](https://www.podularity.com/thehedgehogandthefox/)
+- [Intelligence Squared](https://www.intelligencesquaredus.org/podcasts)
 
 #### Writing and Watching
 ____
