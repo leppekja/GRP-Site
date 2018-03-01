@@ -101,6 +101,9 @@ ____
 - [Veritas Forum](http://www.veritas.org/)
 - [People Science](http://peoplescience.maritz.com/) - Site coming soon.
 - [Philosophy Talk](https://www.philosophytalk.org/)
+- [Bookforum](http://www.bookforum.com/)
+- [The Browser](https://thebrowser.com/)
+- [Arts & Letters Daily](https://www.aldaily.com/)
 
 **Blogs**
 - [BrainPickings](https://www.brainpickings.org/)
