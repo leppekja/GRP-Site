@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does Democracy need Informed Voters?
+title: Does Democracy need Well-Informed Voters?
 ---
 "Democracy depends on an educated and well informed citizenry, the voter." But does it? <!--excerpt-->
 
@@ -15,5 +15,7 @@ What is clear is that democracy depends on how voters act, and these acts are go
 Stability, I'd argue, is not the logical conclusion of an informed citizenry, but of acting as one. Democracies, as such, are inherently unstable; at their strongest, they are usually united against a common enemy, and thus, lose some of what makes them democratic (as seen in McCarthyism, war on Terrorism, within the ongoing political tribalization). The ability to be tolerant, or preferably, be compassionate toward those who the voter does not align themselves with. 
 
 Sure, education - ideally - allows citizens to perceive events more accurately and make better decisions. But plenty of conservative, liberals, libertarians, and communists have advanced degrees and disagree with each other. I'm not saying that education doesn't reinforce the structure of society, but arguing that the decay of democracy is attributed to the fact that some people are smart and some people are not as smart is not compelling in any way. What is more important is how people act toward one another.
+
+Really, what I'm curious in, is what is the minimal level of informed-ness that voters need? I'd agree that an education is necessary to take full advantage of the benefits of living in a democracy, but regarding its functioning, I'm not convinced that better-informed voters are the key, as much as I'd like it to be. It's much simpler to provide knowledge than correct action, as everybody who has ever tried to start a habit that supposedly makes their life better/healthier. 
 
 “The health of a democratic society may be measured by the quality of functions performed by private citizens.” - [Alexis de Tocqueville](http://www.ishlt.org/ContentDocuments/2015FebLinks_EdCorner.html)
