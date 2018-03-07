@@ -104,6 +104,7 @@ ____
 - [Bookforum](http://www.bookforum.com/)
 - [The Browser](https://thebrowser.com/)
 - [Arts & Letters Daily](https://www.aldaily.com/)
+- [The Book of Life](http://www.thebookoflife.org/)
 
 **Blogs**
 - [BrainPickings](https://www.brainpickings.org/)
