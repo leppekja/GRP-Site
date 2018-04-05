@@ -2,6 +2,7 @@
 layout: default
 title: Learning Resources
 ---
+
 #### Podcasts:
 _____
 
@@ -64,6 +65,9 @@ _____
 - [Resonance FM](https://www.resonancefm.com/programmes)
 - [The Hedgehog & The Fox](https://www.podularity.com/thehedgehogandthefox/)
 - [Intelligence Squared](https://www.intelligencesquaredus.org/podcasts)
+- [Review the Future](http://reviewthefuture.com/)
+- [80,000 Hours](https://soundcloud.com/80000-hours)
+- [BBC More or Less](http://www.bbc.co.uk/programmes/b006qshd)
 
 #### Writing and Watching
 ____
@@ -81,7 +85,7 @@ ____
 - [Behavioral Science](http://behavioralscientist.org/)
 - [Knowable Magazine](https://www.knowablemagazine.org/)
 
-**Think Tanks/Nonprofits/Publications/Social Learning:**
+**Think Tanks/Nonprofits/Publications:**
 - [The Institute of Art and Ideas](https://iai.tv/)
 - [Stanford Dictionary of Philosophy](https://plato.stanford.edu/)
 - [Nautilus](http://nautil.us/)
@@ -105,6 +109,31 @@ ____
 - [The Browser](https://thebrowser.com/)
 - [Arts & Letters Daily](https://www.aldaily.com/)
 - [The Book of Life](http://www.thebookoflife.org/)
+- [Priceonomics](https://priceonomics.com/)
+- [Patheos](http://www.patheos.com/about-patheos)
+- [Quilette](http://quillette.com/about/)
+- [The Outline](https://theoutline.com/)
+
+**Online/social Learning**
+- [Open Culture](http://www.openculture.com/)
+- [Open Yale Courses](https://oyc.yale.edu/)
+- [Edx](https://www.edx.org/)
+- [Coursera](https://www.coursera.org/)
+
+**Video**
+- [Matt McCormick (Philosophy of Religion course](https://www.youtube.com/user/MattMcCormick1781/featured)
+- [Wireless Philosophy](https://www.youtube.com/user/WirelessPhilosophy)
+- [Philosophy Overdose](https://www.youtube.com/user/soultorment27/featured)
+- [Greg Sadler (Philosophy courses](https://www.youtube.com/user/gbisadler/featured)
+- [SisyphusRedeemed](https://www.youtube.com/user/SisyphusRedeemed/videos)
+- [Carneades.org](https://www.youtube.com/user/carneadesofcyrene/featured)
+- [European Graduate School Video Lectures](https://www.youtube.com/user/egsvideo/featured)
+- [Rotman Institute of Philosophy](https://www.youtube.com/user/rotmanphilosophy)
+- [Massimo Pigliucci](https://www.youtube.com/user/MassimoPigliucci)
+- [Daniel Bonevac (Philosophy courses](https://www.youtube.com/user/PhiloofAlexandria/feed)
+- [PhilosophyTube](https://www.youtube.com/user/thephilosophytube)
+- [Academy of Ideas](https://www.youtube.com/user/academyofideas/videos)
+- [School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
 
 **Blogs**
 - [BrainPickings](https://www.brainpickings.org/)
@@ -139,6 +168,40 @@ ____
 - [Russ Roberts' Blog](https://medium.com/@russroberts)
 - [Nassim Nicholas Taleb](https://medium.com/@nntaleb)
 - [Morten Jerven](http://mortenjerven.com/)
+- [OvercomingBias](http://www.overcomingbias.com/)
+- [Everyday Sociology](http://www.everydaysociologyblog.com/)
+- [The Philosophers' Mail](http://thephilosophersmail.com/)
+- [The Incidental Economist](https://theincidentaleconomist.com/)
+- [Heterodox Academy](https://heterodoxacademy.org/the-blog/)
+- [Andrew Gelman](http://andrewgelman.com/)
+- [Andy McKenzie](https://andrewtmckenzie.com/news/)
+- [Bayesian Investor Blog](http://www.bayesianinvestor.com/blog/)
+- [Reflective Disequilibrium](http://reflectivedisequilibrium.blogspot.com/)
+- [Certain Doubts](http://certaindoubts.com/)
+- [Choice and Inference](http://choiceandinference.com/)
+- [Colin Marshall](http://blog.colinmarshall.org/)
+- [David Friedman](http://daviddfriedman.blogspot.com/)
+- [Eric Barker](https://www.bakadesuyo.com/)
+- [MetaModern](http://metamodern.com/about-the-author/)
+- [Eric Falkenstein](http://falkenblog.blogspot.com/)
+- [Experimental Philosophy (Archived)](http://philosophycommons.typepad.com/xphi/)
+- [ForeXIV](http://blog.jessriedel.com/)
+- [Metaeuphoric](https://meteuphoric.wordpress.com/)
+- [Melting Asphalt](http://www.meltingasphalt.com/)
+- [Less Wrong](https://www.lesswrong.com/)
+- [Rational Optimist](http://www.rationaloptimist.com/blog)
+- [Modeled Behavior](https://www.forbes.com/sites/modeledbehavior/#319ac0c2a824)
+- [Offsetting Behaviour](https://offsettingbehaviour.blogspot.com/)
+- [Rational Altruist (Archived)](https://rationalaltruist.com/)
+- [Philosophy, et cetera](http://www.philosophyetc.net/)
+- [Preposterous Universe](http://www.preposterousuniverse.com/blog/)
+- [The Sociological Eye](http://sociological-eye.blogspot.co.nz/)
+- [Slate Star Codex](http://slatestarcodex.com/)
+- [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
+- [The Big Questions](http://www.thebigquestions.com/blog/)
+- [Thoughts Arguments and Rants](http://tar.weatherson.org/)
+- [The Moral Sciences Club](http://bigthink.com/articles?blog=the-moral-sciences-club)
+
 
 Please reach out if your favorite source is missing!
 
@@ -244,3 +307,4 @@ http://www.michigangrants.org/
 https://michigan.grantwatch.com/
 
 
+A listing on this page does not constitute an endorsement of content posted. Not all sources may be actively producing new content.
