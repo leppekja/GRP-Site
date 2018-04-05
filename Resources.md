@@ -17,7 +17,6 @@ _____
 - [Secular Buddhism](https://secularbuddhism.com/podcast/)
 - [Dharma (Upaya Institute)](https://www.upaya.org/dharmatalks/)
 
-
 **Politics**
 - [The United States of Anxiety](http://www.npr.org/podcasts/527667974/united-states-of-anxiety)
 - [Still Processing](https://www.nytimes.com/podcasts/still-processing)
@@ -28,6 +27,7 @@ _____
 - [Pod Save America](https://crooked.com/)
 - [FiveThirtyEight](https://fivethirtyeight.com/tag/fivethirtyeight-podcasts/)
 - [Lawfare](https://lawfareblog.com/topic/podcasts)
+- [James Madison College (MSU)](https://jmc.msu.edu/podcast/)
 
 **Economics**
 - [Check out this list](http://economicdevelopment.org/category/podcasts/)
@@ -143,6 +143,11 @@ ____
 Please reach out if your favorite source is missing!
 
 Also, if you're a budding political pundit: visit [Good Judgement Open](https://www.gjopen.com/). Learn how to forecast developments throughout the world and test your judgement skills. Pretty fascinating, especially [this advice](https://www.edge.org/conversation/win-at-forecasting).
+
+Philosophy Programs in Lansing area
+ - [MSU](http://www.philosophy.msu.edu/)
+ MSU Events are available on the GRP calendar.
+ - [LCC](https://www.lcc.edu/ssh/philosophy/)
 
 ### A Reading List
 
