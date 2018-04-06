@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Comfortable Truths: A Recap
+title: Comfortable Truths, A Recap
 ---
+
+
 
 Thursday, 4/5/18, 6:30PM, On Truth <!--excerpt-->
 
