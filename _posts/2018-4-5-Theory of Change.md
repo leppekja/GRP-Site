@@ -2,8 +2,7 @@
 layout: post
 title: Theory of Change
 ---
-## Grassroots Philosophy 
-### Theory of Change <!--excerpt-->
+Our Theory of Change <!--excerpt-->
 
 **1.	Who are you seeking to influence or benefit (target population)?**
 
