@@ -134,6 +134,7 @@ ____
 - [PhilosophyTube](https://www.youtube.com/user/thephilosophytube)
 - [Academy of Ideas](https://www.youtube.com/user/academyofideas/videos)
 - [School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
+- [Rethinking Existentialism](https://www.youtube.com/channel/UCn5crgnXXI2819C6SnhNTAg)
 
 **Blogs**
 - [BrainPickings](https://www.brainpickings.org/)
@@ -201,6 +202,7 @@ ____
 - [The Big Questions](http://www.thebigquestions.com/blog/)
 - [Thoughts Arguments and Rants](http://tar.weatherson.org/)
 - [The Moral Sciences Club](http://bigthink.com/articles?blog=the-moral-sciences-club)
+- [Oxford University Press](https://blog.oup.com/)
 
 
 Please reach out if your favorite source is missing!
