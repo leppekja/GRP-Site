@@ -2,7 +2,8 @@
 layout: post
 title: An Uncertain Life
 ---
-
+Attention freely given is time poorly spent.
+<!--excerpt-->
 For the last few weeks, we've been sharing our thoughts on systems that provide various levels of certainty into our experiences. Whether it be science, reason, or truth, these processes allow us to gain some measure of understanding in the world and determine our own place within it. Last night, we asked why it is this way.
 
 The following is a brief recapitulation of what we discussed. Hopefully I've accurately restated various arguments and provided them with their best justifications; if not, feel free to reach out at grplansing@gmail.com to request an adjustment. Interjections are marked within em dashes. I've tried to limit my thoughts, in italics, to brief points and entries in the Stanford Encyclopedia of Philosophy that may provide clarification.
