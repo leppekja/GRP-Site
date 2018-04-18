@@ -120,6 +120,18 @@ ____
 - [Edx](https://www.edx.org/)
 - [Coursera](https://www.coursera.org/)
 
+**Public Domain Materials**
+- [Google Books](https://books.google.com/)
+- [Google Scholar](https://scholar.google.com/)
+- [Questia](https://www.questia.com/library)
+- [Internet Archive](https://archive.org/index.php)
+- [Feedbooks](http://www.feedbooks.com/)
+- [Classic Literature](https://classic-literature.co.uk/)
+- [Christian Classics](http://www.ccel.org/)
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [Liberty Fund](http://oll.libertyfund.org/index.php?option=com_frontpage&Itemid=149)
+Visit your [local library](https://www.worldcat.org/).
+
 **Video**
 - [Matt McCormick (Philosophy of Religion course](https://www.youtube.com/user/MattMcCormick1781/featured)
 - [Wireless Philosophy](https://www.youtube.com/user/WirelessPhilosophy)
