@@ -1,8 +1,8 @@
 ---
 layout: post
-title: An Uncertain Life
+title: An Uncertain Life: A Recap
 ---
-Attention freely given is time poorly spent.
+Attention freely given is time poorly spent. Thursday, 4/12/18.
 <!--excerpt-->
 For the last few weeks, we've been sharing our thoughts on systems that provide various levels of certainty into our experiences. Whether it be science, reason, or truth, these processes allow us to gain some measure of understanding in the world and determine our own place within it. Last night, we asked why it is this way.
 
