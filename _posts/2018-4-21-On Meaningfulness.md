@@ -1,7 +1,8 @@
 ---
 layout: post
-title: On Meaningfulness: A Recap
+title: On Meaningfulness; A Recap
 ---
+
 Thursday, 4/20/2018. On Meaningfulness <!--excerpt-->
 
 We spoke, last night, on meaningfulness. The following is a brief recapitulation of what we discussed. Hopefully I've accurately restated various arguments and provided them with their best justifications; if not, feel free to reach out at grplansing@gmail.com to request an adjustment. Interjections of comments are marked within em dashes. 
