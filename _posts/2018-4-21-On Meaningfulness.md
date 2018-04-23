@@ -43,7 +43,7 @@ Of course, good is the [opposite of evil](https://en.wikipedia.org/wiki/Beyond_G
 
 We often find [meaning through belonging](https://www.spring.org.uk/2013/10/sense-of-belonging-increases-meaningfulness-of-life.php), as well as our general engagement with others.
 
-*[The Social Animal](https://www.amazon.com/Social-Animal-Sources-Character-Achievement/dp/0812979370) is worth reading, but a TED talk (which I haven’t seen) can be [found here](https://www.ted.com/talks/david_brooks_the_social_animal).*
+*[The Social Animal](https://www.amazon.com/Social-Animal-Sources-Character-Achievement/dp/0812979370) is worth reading, but a TED talk (which I haven’t seen) can be [found here](https://www.ted.com/talks/david_brooks_the_social_animal). We generally considered meaning positively, as in what it adds to our lives, rather than negatively, referring to what it delivers us from. Here, we saw that meaning can save us from loneliness, and harmful isolation. Perhaps driven by biological incentives.*
 
 [Party of one: the loners' manifesto](https://www.worldcat.org/title/party-of-one-the-loners-manifesto/oclc/51059165) - Anneli S Rufus
 
