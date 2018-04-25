@@ -17,6 +17,7 @@ _____
 - [Research On Religion](http://www.researchonreligion.org/)
 - [Secular Buddhism](https://secularbuddhism.com/podcast/)
 - [Dharma (Upaya Institute)](https://www.upaya.org/dharmatalks/)
+- [Bodhi Monastery](https://bodhimonastery.org/online-dharma-lectures)
 
 **Politics**
 - [The United States of Anxiety](http://www.npr.org/podcasts/527667974/united-states-of-anxiety)
@@ -86,6 +87,7 @@ ____
 - [Knowable Magazine](https://www.knowablemagazine.org/)
 
 **Think Tanks/Nonprofits/Publications:**
+- [Closer to Truth (PBS)](https://www.closertotruth.com/)
 - [The Institute of Art and Ideas](https://iai.tv/)
 - [Stanford Dictionary of Philosophy](https://plato.stanford.edu/)
 - [Nautilus](http://nautil.us/)
@@ -134,6 +136,7 @@ ____
 Visit your [local library](https://www.worldcat.org/).
 
 **Video**
+- [Closer to Truth (PBS)](https://www.closertotruth.com/)
 - [Matt McCormick (Philosophy of Religion course](https://www.youtube.com/user/MattMcCormick1781/featured)
 - [Wireless Philosophy](https://www.youtube.com/user/WirelessPhilosophy)
 - [Philosophy Overdose](https://www.youtube.com/user/soultorment27/featured)
