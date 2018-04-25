@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parables in Progress
+title: Parables, Analogies, and Thoughts
 ---
 
 Imagine waking up to find yourself in a precarious situation. <!--excerpt-->Hanging from the ceiling, cuffed at the wrists, with open water below your feet, extending in all directions to the edges of your vision. You are trapped; the waves splash up against each other, undulating, just beneath your swinging feet.
@@ -18,3 +18,9 @@ Imagine you are a child again, at the playground, standing in front of the monke
 Your apparent alternative option is to detach, to simply fall the few feet into the woodchips. You don't reach the end, of course. You aren't even participating any longer.
 
 The third option is nonattachment. Swinging your body, gaining momentum, you swing from one bar to the next, one hand following the other. With that momentum, hanging on by one hand, you continue swinging, not slowing down or looking back, not clutching a bar in fear of falling, not letting go. Soon, you reach the end.
+
+_____
+
+A person who is heavily dependent on relationships may very well have stable relationships that rectify that individual’s weaknesses for the entirety of their lives. This person would never have to confront their failings and live a decent life, except for short periods of time when someone they depend on is traveling, upset etc.. They would simply correct the relationship or find someone else to lean on.
+
+Most of us, I think, live this way; it’s as if we’re swimming in the ocean from lighthouse to lighthouse, afraid of drowning because we’re weak swimmers, yet unwilling to trust the ocean enough to learn to swim well. It’s exhausting, and it isn’t surprising that as we grow older, we grow more comfortable being alone, knowing that the next lighthouse isn’t as bright as it appears from our vantage point in the water. To achieve relationships that move past superficiality, I think, requires a person who is incredibly secure with their being, or in other words, emotionally safe. It requires a good swimmer, one who trusts him- or herself. 
