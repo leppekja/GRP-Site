@@ -15,7 +15,7 @@
 
 html {
   font-size: 100%;
-  background-color: $darkGray;
+  background-color: $white;
 
   background-repeat: no-repeat;
   background-position: top;
@@ -24,12 +24,12 @@ html {
 
 body {
   font: 18px/1.4 $georgia;
-  color: $darkGray;
+  color: $white;
 }
 
 .container {
   margin: 0 auto;
-  background: $lightGray;
+  background: $white;
   max-width: 800px;
   padding: 0 20px;
   width: 100%;
@@ -38,7 +38,7 @@ body {
 
 .headerupdate {
   margin: 0 auto;
-  background: $lightGray;
+  background: $white;
   max-width:  800;
   padding: 0 10px;
   width: 100%;
