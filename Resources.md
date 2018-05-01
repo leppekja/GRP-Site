@@ -85,6 +85,7 @@ ____
 - [Current Affairs](https://www.currentaffairs.org/)
 - [Behavioral Science](http://behavioralscientist.org/)
 - [Knowable Magazine](https://www.knowablemagazine.org/)
+- [The Conversation](https://theconversation.com/us)
 
 **Think Tanks/Nonprofits/Publications:**
 - [Closer to Truth (PBS)](https://www.closertotruth.com/)
@@ -115,8 +116,12 @@ ____
 - [Patheos](http://www.patheos.com/about-patheos)
 - [Quilette](http://quillette.com/about/)
 - [The Outline](https://theoutline.com/)
+- [Poetry Foundation](https://www.poetryfoundation.org/)
+- [The Phrontistery](http://phrontistery.info/)
+- [ReligionFacts](http://www.religionfacts.com/)
+- [Granta](https://granta.com/)
 
-**Online/social Learning**
+**Online/Social Learning**
 - [Open Culture](http://www.openculture.com/)
 - [Open Yale Courses](https://oyc.yale.edu/)
 - [Edx](https://www.edx.org/)
@@ -223,7 +228,9 @@ Visit your [local library](https://www.worldcat.org/).
 
 Please reach out if your favorite source is missing!
 
-Also, if you're a budding political pundit: visit [Good Judgement Open](https://www.gjopen.com/). Learn how to forecast developments throughout the world and test your judgement skills. Pretty fascinating, especially [this advice](https://www.edge.org/conversation/win-at-forecasting).
+Also, if you're a budding political pundit: visit [Good Judgement Open](https://www.gjopen.com/). Learn how to forecast developments throughout the world and test your judgement skills. Pretty fascinating, especially [this advice](https://www.edge.org/conversation/win-at-forecasting). 
+
+Similarly, see [Long Bets](http://longbets.org/) for prediction arenas with philanthropic money. 
 
 Philosophy Programs in Lansing area
  - [MSU](http://www.philosophy.msu.edu/)
@@ -289,10 +296,10 @@ Below is a list of books that I either have read or written down to read at a la
 | * by [John Keats](https://en.wikipedia.org/wiki/John_Keats) | * by [Walter Lippmann](https://en.wikipedia.org/wiki/Walter_Lippmann) |
 | [The Hedgehog & The Fox](https://www.worldcat.org/title/hedgehog-and-the-fox/oclc/982276685&referer=brief_results); Isaiah Berlin | [How to be Yourself](https://www.worldcat.org/title/how-to-be-yourself-quiet-your-inner-critic-and-rise-above-social-anxiety/oclc/983605352&referer=brief_results); Ellen Hendrickson |
 | [The Attention Merchants...](https://www.worldcat.org/title/attention-merchants-from-the-daily-newspaper-to-social-media-how-our-time-and-attention-is-harvested-and-sold/oclc/967756646&referer=brief_results); Tim Wu | [Rigged...](https://www.worldcat.org/title/rigged-how-globalization-and-the-rules-of-the-modern-economy-were-structured-to-make-the-rich-richer/oclc/972322312&referer=brief_results); Dean Baker |
-| Godel, Escher, Bach...](https://www.worldcat.org/title/godel-escher-bach-an-eternal-golden-braid/oclc/750541259&referer=brief_results); Douglas Hofstadter | [The Black Swan](https://www.worldcat.org/title/black-swan-the-impact-of-the-highly-improbable/oclc/1012852841&referer=brief_results); Nassim Taleb |
-|Breakfast of Champions](https://www.worldcat.org/title/breakfast-of-champions-or-goodbye-blue-monday/oclc/932204497&referer=brief_results); Kurt Vonnegut | [Superforecasting](https://www.worldcat.org/title/superforecasting-the-art-and-science-of-prediction/oclc/950418069&referer=brief_results); Phil Tetlock & Gardner |
-| [For Marx](); Louis Althusser |
-
+| [Godel, Escher, Bach...](https://www.worldcat.org/title/godel-escher-bach-an-eternal-golden-braid/oclc/750541259&referer=brief_results); Douglas Hofstadter | [The Black Swan](https://www.worldcat.org/title/black-swan-the-impact-of-the-highly-improbable/oclc/1012852841&referer=brief_results); Nassim Taleb |
+| [Breakfast of Champions](https://www.worldcat.org/title/breakfast-of-champions-or-goodbye-blue-monday/oclc/932204497&referer=brief_results); Kurt Vonnegut | [Superforecasting](https://www.worldcat.org/title/superforecasting-the-art-and-science-of-prediction/oclc/950418069&referer=brief_results); Phil Tetlock & Gardner |
+| [For Marx](https://www.goodreads.com/book/show/85921.For_Marx); Louis Althusser | [Radical Markets: Uprooting Capitalism and Democracy for a Just Society](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503); E. Posner & E. Weyl | 
+| [New Power](https://www.penguinrandomhouse.com/books/534179/new-power-by-jeremy-heimans-and-henry-timms/9780385541114/); Jeremy Heimans & Henry Timms | 
 
 ### Grants
 ____
