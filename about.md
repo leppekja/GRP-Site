@@ -20,7 +20,7 @@ Inspired by other philosophy clubs around the world, Grassroots Philosophy bring
 
 <p align="center"><i>“The main task of philosophy clubs is to turn into collective movements of social change, which are capable of tackling the great problems of our age. If we just obsess about our own lifestyles, I don’t think we’ll get very far.”</i> - <a href="https://www.philosophersmag.com/essays/92-grassroots-philosophy">Roman Krznaric</a></p>
 
-Read more about grassroots philosophy clubs [in this report](http://www.philosophyforlife.org/wp-content/uploads/2012/11/Grassroots-Philosophy.pdf).
+Read more about grassroots philosophy clubs [in this report](http://www.philosophyforlife.org/wp-content/uploads/2012/11/Grassroots-Philosophy.pdf) or the concept of [cafés philosophique](https://en.wikipedia.org/wiki/Caf%C3%A9_philosophique).
 
 ### The Format
 
