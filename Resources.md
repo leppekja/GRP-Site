@@ -87,6 +87,7 @@ ____
 - [Behavioral Science](http://behavioralscientist.org/)
 - [Knowable Magazine](https://www.knowablemagazine.org/)
 - [The Conversation](https://theconversation.com/us)
+- [n+1](https://nplusonemag.com)
 
 **Think Tanks/Nonprofits/Publications:**
 - [Closer to Truth (PBS)](https://www.closertotruth.com/)
