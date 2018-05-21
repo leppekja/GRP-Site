@@ -69,6 +69,7 @@ _____
 - [Review the Future](http://reviewthefuture.com/)
 - [80,000 Hours](https://soundcloud.com/80000-hours)
 - [BBC More or Less](http://www.bbc.co.uk/programmes/b006qshd)
+- [The Knowledge Podcast](https://www.fs.blog/the-knowledge-project/)
 
 #### Writing and Watching
 ____
