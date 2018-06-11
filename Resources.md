@@ -78,6 +78,7 @@ ____
 - [Washington Post](https://www.washingtonpost.com/)
 - [The New Yorker](https://www.newyorker.com/)
 - [National Review](http://www.nationalreview.com/)
+- [New Statesman](https://www.newstatesman.com/)
 - [Dissent](https://www.dissentmagazine.org/)
 - [The Nation](https://www.thenation.com/)
 - [The Atlantic](https://www.theatlantic.com/)
