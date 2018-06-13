@@ -11,7 +11,17 @@ _____
 - [A Partially Examined Life](https://partiallyexaminedlife.com/)
 - [On Being](https://onbeing.org/)
 - [Philosophy Now](https://philosophynow.org/podcasts)
+- [Philosophy Talk](https://www.philosophytalk.org/)
 - [Very Bad Wizards](https://verybadwizards.fireside.fm/)
+- [Philosopher's Zone](http://www.abc.net.au/radionational/programs/philosopherszone/)
+- [Who Shaves the Barber?](http://williamnava.com/who-shaves-the-barber/)
+- [Philosophy Bites](http://www.philosophybites.com/)
+- [The Panpsycast](http://thepanpsycast.com/)
+- [Examining Ethics](http://examiningethics.org/)
+- [Institute for Public Philosophy](https://philosophyinpubliclife.org/previous-episodes/)
+- [History of Philosophy](https://historyofphilosophy.net/)
+- [Elucidations](http://philosophy.uchicago.edu/podcasts/elucidations.html)
+- [The Public Philosopher](https://www.bbc.co.uk/programmes/b01nmlh2/episodes/downloads)
 
 **Religion**
 - [Research On Religion](http://www.researchonreligion.org/)
@@ -30,6 +40,7 @@ _____
 - [FiveThirtyEight](https://fivethirtyeight.com/tag/fivethirtyeight-podcasts/)
 - [Lawfare](https://lawfareblog.com/topic/podcasts)
 - [James Madison College (MSU)](https://jmc.msu.edu/podcast/)
+- [Moral Maze (BBC)](https://www.bbc.co.uk/programmes/b006qk11)
 
 **Economics**
 - [Check out this list](http://economicdevelopment.org/category/podcasts/)
@@ -51,6 +62,7 @@ _____
 - [The Memory Palace](http://thememorypalace.us/)
 - [History of English](http://historyofenglishpodcast.com/)
 - [The History Chicks](http://thehistorychicks.com/)
+- [In Our Time (BBC)](https://www.bbc.co.uk/programmes/b006qykl)
 
 **Science**
 - [Invisibilia (NPR)](http://www.npr.org/podcasts/510307/invisibilia)
@@ -70,6 +82,9 @@ _____
 - [80,000 Hours](https://soundcloud.com/80000-hours)
 - [BBC More or Less](http://www.bbc.co.uk/programmes/b006qshd)
 - [The Knowledge Podcast](https://www.fs.blog/the-knowledge-project/)
+- [Times Literary Supplement](https://www.the-tls.co.uk/podcast-freedom-books-flowers-moon/)
+- [Entitled Opinions](https://entitledopinions.stanford.edu/episodes)
+- [Point of Inquiry](http://www.pointofinquiry.org/)
 
 #### Writing and Watching
 ____
@@ -228,7 +243,6 @@ Visit your [local library](https://www.worldcat.org/).
 - [Thoughts Arguments and Rants](http://tar.weatherson.org/)
 - [The Moral Sciences Club](http://bigthink.com/articles?blog=the-moral-sciences-club)
 - [Oxford University Press](https://blog.oup.com/)
-
 
 Please reach out if your favorite source is missing!
 
