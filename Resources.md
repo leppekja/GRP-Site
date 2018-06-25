@@ -41,6 +41,7 @@ _____
 - [Lawfare](https://lawfareblog.com/topic/podcasts)
 - [James Madison College (MSU)](https://jmc.msu.edu/podcast/)
 - [Moral Maze (BBC)](https://www.bbc.co.uk/programmes/b006qk11)
+- [Guardian Politics Weekly](https://soundcloud.com/guardianpoliticsweekly)
 
 **Economics**
 - [Check out this list](http://economicdevelopment.org/category/podcasts/)
@@ -55,6 +56,7 @@ _____
 - [CGD Podcast](https://www.cgdev.org/blog/podcasts-development)
 - [Free Thoughts](https://www.libertarianism.org/podcasts)
 - [Talking Africa -Resonance FM](https://www.resonancefm.com/programmes)
+- [Economy - Understandable Economics](https://get.ecnmy.org/)
 
 **History**
 - [Revisionist History](http://revisionisthistory.com/)
@@ -105,6 +107,7 @@ ____
 - [Knowable Magazine](https://www.knowablemagazine.org/)
 - [The Conversation](https://theconversation.com/us)
 - [n+1](https://nplusonemag.com)
+- [The Rumpus](http://therumpus.net/)
 
 **Think Tanks/Nonprofits/Publications:**
 - [Closer to Truth (PBS)](https://www.closertotruth.com/)
