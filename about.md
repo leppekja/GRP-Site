@@ -9,7 +9,7 @@ Drinks & discussion for Lansing professionals
 interested in philosophy, politics, economics, and society.
 </b></p>
 
-Reading philosophy can be a bit dry — so we’re adding alcohol and discussion to make learning more enjoyable. No obscure name-dropping, and no required  readings, we promise.  Put aside the speed dating pamphlet and come meet interesting people, talk about the big questions, and share your thoughts on difficult questions like the meaning of life and how to live well.
+Reading philosophy can be a bit dry — so we’re adding alcohol and discussion to make learning more enjoyable. No obscure name-dropping, and no required  readings, we promise.  Put aside the speed dating pamphlet and come meet interesting people, talk about the big questions, and share your thoughts on difficult questions like the meaning of life and how to live well. With over 150 members across Lansing, we hold diverse discussions on anything and everything we can think of. 
 
 <p align="center"><b>Interested in getting involved? <a href="mailto:grplansing@gmail.com">Get in touch!</a>
 Meetings are 6:30 PM on Thursdays. We'll be at <a href="http://www.kellys-downtown.com/">Kelly's Downtown</a> (220 Washington Square South, Lansing, MI, 48933). For more information, <a href="https://www.meetup.com/Grassroots-Philosophy-Meetup">join us on MeetUp!</a></b></p>
