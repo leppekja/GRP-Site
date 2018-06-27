@@ -68,10 +68,12 @@ _____
 
 **Science**
 - [Invisibilia (NPR)](http://www.npr.org/podcasts/510307/invisibilia)
+- [Science Salon](https://www.skeptic.com/podcasts/science-salon/)
 - [Social Science Bites](https://player.fm/series/social-science-bites)
 - [The Hidden Brain (NPR)](http://www.npr.org/series/423302056/hidden-brain)
 - [Science Vs](https://gimletmedia.com/science-vs/)
 - [RadioLab](http://www.radiolab.org/)
+- [Skepticality](https://www.skeptic.com/podcasts/skepticality/)
 - [Scientific American](https://www.scientificamerican.com/podcasts/)
 
 **Misc.**
