@@ -248,6 +248,7 @@ Visit your [local library](https://www.worldcat.org/).
 - [Thoughts Arguments and Rants](http://tar.weatherson.org/)
 - [The Moral Sciences Club](http://bigthink.com/articles?blog=the-moral-sciences-club)
 - [Oxford University Press](https://blog.oup.com/)
+- [Law and Political Economy](https://lpeblog.org/)
 
 Please reach out if your favorite source is missing!
 
