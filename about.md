@@ -33,9 +33,3 @@ There is no need to RSVP to any meeting. Feel free to simply come and listen - d
 ### Contribute Your Thoughts...
 
 Interested in contributing to the Grassroots Philosophy Blog? GRP accepts writings on a variety of topics, just like in our discussions. Feel free to send opinion pieces, fiction, research, and historical analysis to grplansing@gmail.com. Please limit your contributions to once a week, and under 1,500 words, in a Word document. Accepted works will be contacted over email within one week of submission. Find some good advice here on [philosophical opinion writing](https://blog.apaonline.org/2016/05/23/ten-rules-of-thumb-for-op-ed-writing/).
-
-### Contact Information
-
-[Send Email](mailto:grplansing@gmail.com)
-
-Twitter: @GRPLansing
