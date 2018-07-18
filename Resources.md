@@ -89,6 +89,8 @@ _____
 - [Times Literary Supplement](https://www.the-tls.co.uk/podcast-freedom-books-flowers-moon/)
 - [Entitled Opinions](https://entitledopinions.stanford.edu/episodes)
 - [Point of Inquiry](http://www.pointofinquiry.org/)
+- [Peter Attia, MD](https://peterattiamd.com)
+- [Tim Ferriss](https://tim.blog/podcast/)
 
 #### Writing and Watching
 ____
