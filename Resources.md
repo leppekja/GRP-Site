@@ -251,6 +251,7 @@ Visit your [local library](https://www.worldcat.org/).
 - [The Moral Sciences Club](http://bigthink.com/articles?blog=the-moral-sciences-club)
 - [Oxford University Press](https://blog.oup.com/)
 - [Law and Political Economy](https://lpeblog.org/)
+- [Philosophy for Life](http://www.philosophyforlife.org/)
 
 Please reach out if your favorite source is missing!
 
