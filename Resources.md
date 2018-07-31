@@ -146,6 +146,7 @@ ____
 - [The Phrontistery](http://phrontistery.info/)
 - [ReligionFacts](http://www.religionfacts.com/)
 - [Granta](https://granta.com/)
+- [LitHub](https://lithub.com/)
 
 **Online/Social Learning**
 - [Open Culture](http://www.openculture.com/)
