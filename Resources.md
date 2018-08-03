@@ -258,6 +258,8 @@ Visit your [local library](https://www.worldcat.org/).
 
 Deliberation and Dialogue Networks (List in progress)
 - [National Issues Forum](https://www.nifi.org)
+- [National Coalition for Dialogue and Deliberation](http://ncdd.org/)
+- [National Dialogue Network](http://www.nationaldialoguenetwork.org/)
 
 Please reach out if your favorite source is missing!
 
