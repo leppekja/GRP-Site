@@ -78,6 +78,7 @@ _____
 
 **Misc.**
 - [Waking Up](https://www.samharris.org/podcast)
+- [Cory Allen](http://www.cory-allen.com/theastralhustle/)
 - [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
 - [Resonance FM](https://www.resonancefm.com/programmes)
 - [The Hedgehog & The Fox](https://www.podularity.com/thehedgehogandthefox/)
@@ -91,6 +92,7 @@ _____
 - [Point of Inquiry](http://www.pointofinquiry.org/)
 - [Peter Attia, MD](https://peterattiamd.com)
 - [Tim Ferriss](https://tim.blog/podcast/)
+- [Aubrey Marcus](https://www.aubreymarcus.com/blogs/aubrey-marcus/tagged/aubrey-marcus-podcast)
 
 #### Writing and Watching
 ____
@@ -253,6 +255,9 @@ Visit your [local library](https://www.worldcat.org/).
 - [Oxford University Press](https://blog.oup.com/)
 - [Law and Political Economy](https://lpeblog.org/)
 - [Philosophy for Life](http://www.philosophyforlife.org/)
+
+Deliberation and Dialogue Networks (List in progress)
+- [National Issues Forum](https://www.nifi.org)
 
 Please reach out if your favorite source is missing!
 
