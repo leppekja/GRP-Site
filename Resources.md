@@ -93,6 +93,7 @@ _____
 - [Peter Attia, MD](https://peterattiamd.com)
 - [Tim Ferriss](https://tim.blog/podcast/)
 - [Aubrey Marcus](https://www.aubreymarcus.com/blogs/aubrey-marcus/tagged/aubrey-marcus-podcast)
+- [Entitled Opinions](https://web.stanford.edu/dept/fren-ital/opinions/)
 
 #### Writing and Watching
 ____
