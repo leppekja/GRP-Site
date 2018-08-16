@@ -6,13 +6,13 @@ In 2015, 26.6% of Michiganders volunteered for a combined total of 219.08 millio
 
 This report is intended to provide a brief overview of the relationship between the labor market and volunteering in Michigan as compared to national trends. It will use historical data obtained from the Corporation for National Community Services, the Bureau of Labor Statistics, and other sources. Lastly, it will provide a summary of the evidence and advice for nonprofit staff dealing with volunteer recruitment.
 
-| Year  |  Natl. Ranking<sup id="a2">[2](#f2)</sup> |
-|-------|------------------:|
-| 2011  | 26<sup>th</sup>   |
-| 2012  | 25<sup>th</sup>   |
-| 2013  | 25<sup>th</sup>   |
-| 2014  | 25<sup>th</sup>   |
-| 2015  | 26<sup>th</sup>   |
+| Year      |  Natl. Ranking<sup id="a2">[2](#f2)</sup> |
+|:----------|:------------------:|
+| 2011      | 26<sup>th</sup>   |
+| 2012      | 25<sup>th</sup>   |
+| 2013      | 25<sup>th</sup>   |
+| 2014      | 25<sup>th</sup>   |
+| 2015      | 26<sup>th</sup>   |
 
 The U.S. Department of Labor identifies volunteers as those who “donate their services, usually on a part-time basis, for public service, religious or humanitarian objectives, not as employees and without contemplation of pay, [and] and are not considered employees of the religious, charitable or similar non-profit organizations that receive their service.”<sup id="a3">[3](#f3)</sup>  Of course, many volunteers expect numerous benefits in return for their service. Volunteering has been demonstrated to have a “significant improvement in job prospects” for unemployed persons, depending on the number of hours volunteered.<sup id="a4">[4](#f4)</sup> Volunteers gain transferable interpersonal skills, especially among young volunteers, preparing them for future work.<sup id="a5">[5](#f5)</sup>  Volunteering generally increases social networks, teaches hard skills, and acts as a positive signaling mechanism for employers.<sup id="a6">[6](#f6)</sup>  Of course, the rates of return concerning benefits derived from volunteering vary widely across regions, professional fields, and labor market conditions. 
 
