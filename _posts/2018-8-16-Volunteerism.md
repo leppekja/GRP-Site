@@ -6,7 +6,7 @@ In 2015, 26.6% of Michiganders volunteered for a combined total of 219.08 millio
 
 This report is intended to provide a brief overview of the relationship between the labor market and volunteering in Michigan as compared to national trends. It will use historical data obtained from the Corporation for National Community Services, the Bureau of Labor Statistics, and other sources. Lastly, it will provide a summary of the evidence and advice for nonprofit staff dealing with volunteer recruitment.
 
-| Year  |  National Ranking<sup id="a2">[2](#f2)</sup> |
+| Year  |  Natl. Ranking<sup id="a2">[2](#f2)</sup> |
 |-------|------------------:|
 | 2011  | 26<sup>th</sup>   |
 | 2012  | 25<sup>th</sup>   |
