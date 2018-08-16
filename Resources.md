@@ -57,6 +57,7 @@ _____
 - [Free Thoughts](https://www.libertarianism.org/podcasts)
 - [Talking Africa -Resonance FM](https://www.resonancefm.com/programmes)
 - [Economy - Understandable Economics](https://get.ecnmy.org/)
+- [Stephanie Kelton](https://stephaniekelton.com/)
 
 **History**
 - [Revisionist History](http://revisionisthistory.com/)
@@ -150,6 +151,7 @@ ____
 - [ReligionFacts](http://www.religionfacts.com/)
 - [Granta](https://granta.com/)
 - [LitHub](https://lithub.com/)
+- [Center for Economic and Policy Research](http://cepr.net/)
 
 **Online/Social Learning**
 - [Open Culture](http://www.openculture.com/)
@@ -187,7 +189,7 @@ Visit your [local library](https://www.worldcat.org/).
 - [School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
 - [Rethinking Existentialism](https://www.youtube.com/channel/UCn5crgnXXI2819C6SnhNTAg)
 
-**Blogs**
+**Philosophy Blogs**
 - [BrainPickings](https://www.brainpickings.org/)
 - [Philosophy of Brains](http://philosophyofbrains.com/)
 - [A Philosopher's Take](https://aphilosopherstake.com)
@@ -256,6 +258,50 @@ Visit your [local library](https://www.worldcat.org/).
 - [Oxford University Press](https://blog.oup.com/)
 - [Law and Political Economy](https://lpeblog.org/)
 - [Philosophy for Life](http://www.philosophyforlife.org/)
+
+**Economics Blogs**
+
+[Intelligent Economist](https://www.intelligenteconomist.com/economics-blogs/) releases an annual top 100 blogs, only some of which are included below.
+
+- [Marginal Revolution](http://marginalrevolution.com/)
+- [Russ Roberts' Blog](https://medium.com/@russroberts)
+- [Law and Political Economy](https://lpeblog.org/)
+- [Modeled Behavior](https://www.forbes.com/sites/modeledbehavior/#319ac0c2a824)
+- [Offsetting Behaviour](https://offsettingbehaviour.blogspot.com/)
+- [Bayesian Investor Blog](http://www.bayesianinvestor.com/blog/)
+- [Reflective Disequilibrium](http://reflectivedisequilibrium.blogspot.com/)
+- [The Incidental Economist](https://theincidentaleconomist.com/)
+- [Mosler Economics](http://moslereconomics.com/)
+- [Pragmatic Capitalism](https://www.pragcap.com/)
+- [Modern Money Theory](https://modernmoney.wordpress.com/)
+- [New Economic Perspectives](http://neweconomicperspectives.org/)
+- [EconLog](https://www.econlib.org/econlog/)
+- [Paul Krugman](https://www.nytimes.com/column/paul-krugman)
+- [Naked Capitalism](https://www.nakedcapitalism.com/)
+- [EconBrowser](http://econbrowser.com/)
+- [Heteconomist](http://heteconomist.com/)
+- [Economic Questions](https://theminskys.org/)
+- [Naked Keynesiansim](http://nakedkeynesianism.blogspot.com/)
+- [Intelligent Economist](https://www.intelligenteconomist.com)
+- [Robert Reich](http://robertreich.org/)
+- [Undercover Economist](http://timharford.com/articles/undercovereconomist/)
+- [Cafe Hayek](https://cafehayek.com/)
+- [Angry Bear](https://angrybearblog.com/)
+- [Everyday Economist](https://everydayecon.wordpress.com/)
+- [Bradley Hanson](https://bradleyahansen.blogspot.com/)
+- [Economics One](https://economicsone.com/)
+- [The Exchange](http://exchange-bhc.blogspot.com/)
+- [Economic Growth in History](https://nofuturepast.wordpress.com/)
+- [Truth on the Market](https://truthonthemarket.com/)
+- [Chris Blattman](https://chrisblattman.com/)
+- [Greg Mankiw](https://gregmankiw.blogspot.com/)
+- [The Dangerous Economist](https://thedangerouseconomist.blogspot.com/)
+- [Freakonomics](http://freakonomics.com/)
+- [Danny Quah](http://www.dannyquah.com/writings/en/)
+- [EconLife](https://econlife.com/)
+- [Eggonomics](http://chandniraja.blogspot.com/)
+- [Black Econ Girl](https://blackecongirl.wixsite.com/website/blog)
+- [Ed Dolan](https://dolanecon.blogspot.com/)
 
 Deliberation and Dialogue Networks (List in progress)
 - [National Issues Forum](https://www.nifi.org)
