@@ -22,6 +22,10 @@ Understanding how labor market conditions, and economic forces more generally, a
 
 The volunteering rate is the proportion of volunteers to the population. Unfortunately, the methodologies for measuring how many individuals volunteer are imprecise. Despite this, the volunteering rate is widely used as an indicator of civic engagement since 2002. 
 
+<div style="text-align: center">
+<img src="/images/vol_g1.png">
+</div>
+
 A gradual decline in the national volunteering rate has been well documented.<sup id="a7">[7](#f7)</sup>  A slight decline, less than the national average, is also evident in Michigan. With wide variations year-to-year, it’s important to note that this rate depends on multiple factors, such as availability and quality of volunteering opportunities, leisure time, and the labor force. As such, this downward trend has not been conclusively explained, with various explanations invoking a declining sense of community, limited investment in the nonprofit sector, changing demographics, and a troubled economy.
 
 The scope of this report limits its analysis to conditions relating to the labor market, specifically, employment status, unemployment, and labor force participation. The relationship between wages and volunteering is not examined. Previous studies have found that volunteers earn higher wages on average, but this is generally attributed to higher education levels among volunteers.<sup id="a8">[8](#f8)</sup> 
@@ -29,17 +33,34 @@ The scope of this report limits its analysis to conditions relating to the labor
 ###### Employment Status
 
 Wide variation emerges in volunteering rates when delineated by employment status. Unfortunately, state-specific data does not exist regarding the relationship between employment status and volunteering rates. Nationally, volunteering as a percentage of employment status has remained steady or slightly declined. Moreover, employment status affects the volunteering rate, with over 30% of part-time workers donating their services, followed by full-time workers and the unemployed. Civilians not in the labor force have the lowest volunteering rate. 
+
+<div style="text-align: center">
+<img src="/images/vol_g2.png">
+</div>
+
 It's important to note that the rate of volunteering among full-time, highly educated individuals has dropped the most in recent years, followed by part time and those not in the labor force. This has been attributed to increasing ‘busy-ness’ of people, as well as increased obstacles to volunteering like background checks and other paperwork. However, the exact reasoning behind this decline is unclear.
 
 ###### Unemployment
 
-Unemployment does not seem to drastically affect the overall volunteering rate in Michigan. Despite undergoing a large up-and-down swing in the unemployment rate due to the 2008 recession, the volunteering rate largely remained steadily declining. This indicates that unemployed workers generally do not view volunteering as an effective use of their time while looking for work, despite some evidence that indicates that volunteering is associated with obtaining a job sooner.<sup id="a9">[9](#f9)</sup>   Moreover, combined with the rates of volunteering among civilians not in the labor force, it suggests that volunteering is not a merely a function of free time, even as part-time workers volunteer at the highest rates.<sup id="a10">[10](#f10)</sup>    
+Unemployment does not seem to drastically affect the overall volunteering rate in Michigan. Despite undergoing a large up-and-down swing in the unemployment rate due to the 2008 recession, the volunteering rate largely remained steadily declining. This indicates that unemployed workers generally do not view volunteering as an effective use of their time while looking for work, despite some evidence that indicates that volunteering is associated with obtaining a job sooner.<sup id="a9">[9](#f9)</sup>   Moreover, combined with the rates of volunteering among civilians not in the labor force, it suggests that volunteering is not a merely a function of free time, even as part-time workers volunteer at the highest rates.<sup id="a10">[10](#f10)</sup> 
+
+<div style="text-align: center">
+<img src="/images/vol_g3.png">
+</div>
 
 Viewed nationally, there is a slight association between the unemployment and volunteering rates. Further research tracking this relationship over time may affect how we interpret this phenomenon. It may be that other factors correlated with higher employment rates, like poverty or poor infrastructure, are a better indicator of the volunteering rate.
 
+<div style="text-align: center">
+<img src="/images/vol_g4.png">
+</div>
+
 ###### Labor Force Participation
 
-A higher national labor force participation rate is slightly associated with a higher volunteering rate. The labor force participation rate does not include individuals that are unemployed and not looking for work. This suggests that the gradual decline in the national volunteering rate can in some part be attributed to the declining labor force participation rate, as demonstrated below. However, this is a weak association, and suggests that numerous other factors play a role in an individual’s choice to volunteer
+A higher national labor force participation rate is slightly associated with a higher volunteering rate. The labor force participation rate does not include individuals that are unemployed and not looking for work. This suggests that the gradual decline in the national volunteering rate can in some part be attributed to the declining labor force participation rate, as demonstrated below. However, this is a weak association, and suggests that numerous other factors play a role in an individual’s choice to volunteer.
+
+<div style="text-align: center">
+<img src="/images/vol_g5.png">
+</div>
 
 ###### Conclusion
 
