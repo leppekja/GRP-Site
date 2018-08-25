@@ -18,6 +18,9 @@ Groups are the least salient, organized around few bonds that are generally weak
 
 Overall, methods of entry were by deliberate choice, by accident, by force, and by instinct. Measures of connection were the number of shared dimensions amoung members and the intensity of those connections, i.e., the influence of the connection on the individuals. These links were generally described throughout the conversation as religious, value-based, issue-oriented, or desire-based. It was brought up that it is frequently the groups we find ourselves in by accident are those which have the most influence on us.
 
-We're [malleable beings](https://www.nytimes.com/2018/08/24/opinion/the-metamorphosis-of-the-western-soul.html). [Groups](https://www.wsj.com/articles/SB10001424052748704436004576298962165925364) have the ability to change how we see the world. 
+We're [malleable beings](https://www.nytimes.com/2018/08/24/opinion/the-metamorphosis-of-the-western-soul.html). [Groups](https://www.wsj.com/articles/SB10001424052748704436004576298962165925364) have the ability to change how we see the world. [Pascal's Wager](https://plato.stanford.edu/entries/pascal-wager/#WhatDoesItMeanWageForGod) was mentioned, as well as Alcoholics Anonymous, in referencing how we can fool ourselves into believing through action, a path that [Infinite Jest](https://www.newyorker.com/books/page-turner/david-foster-wallace-in-recovery-an-excerpt-from-the-new-biography) fictionally recounts. Moreover, it seems that we are fairly elastic concerning group influence according to a number of psychology studies e.g. [blue eyes vs. brown eyes](https://www.pbs.org/wgbh/frontline/film/class-divided/), [Robbers Cave](https://explorable.com/robbers-cave-experiment/), [standing in an elevator](https://www.youtube.com/watch?v=BgRoiTWkBHU). 
+
+Apparently we are attracted to groups, being social creatures.
+
 
 tbc
