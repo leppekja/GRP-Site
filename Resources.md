@@ -116,6 +116,7 @@ ____
 - [The Conversation](https://theconversation.com/us)
 - [n+1](https://nplusonemag.com)
 - [The Rumpus](http://therumpus.net/)
+- [RealLifeMag](http://reallifemag.com/)
 
 **Think Tanks/Nonprofits/Publications:**
 - [Closer to Truth (PBS)](https://www.closertotruth.com/)
