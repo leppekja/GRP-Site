@@ -154,6 +154,12 @@ ____
 - [LitHub](https://lithub.com/)
 - [Center for Economic and Policy Research](http://cepr.net/)
 
+**Data in Action**
+- [Our World in Data](https://ourworldindata.org/)
+- [NYT's The Upshot](https://www.nytimes.com/section/upshot)
+- [FiveThirtyEight](https://fivethirtyeight.com/)
+More to come!
+
 **Online/Social Learning**
 - [Open Culture](http://www.openculture.com/)
 - [Open Yale Courses](https://oyc.yale.edu/)
