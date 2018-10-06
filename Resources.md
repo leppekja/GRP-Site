@@ -22,6 +22,7 @@ _____
 - [History of Philosophy](https://historyofphilosophy.net/)
 - [Elucidations](http://philosophy.uchicago.edu/podcasts/elucidations.html)
 - [The Public Philosopher](https://www.bbc.co.uk/programmes/b01nmlh2/episodes/downloads)
+- [MeaningofLife TV](http://meaningoflife.tv/)
 
 **Religion**
 - [Research On Religion](http://www.researchonreligion.org/)
