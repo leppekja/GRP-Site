@@ -96,6 +96,7 @@ _____
 - [Tim Ferriss](https://tim.blog/podcast/)
 - [Aubrey Marcus](https://www.aubreymarcus.com/blogs/aubrey-marcus/tagged/aubrey-marcus-podcast)
 - [Entitled Opinions](https://web.stanford.edu/dept/fren-ital/opinions/)
+- [Michigan Citizens Research Council](https://hewlett.org/wp-content/uploads/2016/08/Benchmarks%20for%20Spending%20on%20Evaluation_2014.pdf)
 
 #### Writing and Watching
 ____
