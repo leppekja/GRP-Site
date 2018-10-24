@@ -43,6 +43,8 @@ _____
 - [James Madison College (MSU)](https://jmc.msu.edu/podcast/)
 - [Moral Maze (BBC)](https://www.bbc.co.uk/programmes/b006qk11)
 - [Guardian Politics Weekly](https://soundcloud.com/guardianpoliticsweekly)
+- [In The Arena](http://www.governing.com/podcast/arena)
+- [Michigan Citizens Research Council](https://crcmich.org/podcasts/)
 
 **Economics**
 - [Check out this list](http://economicdevelopment.org/category/podcasts/)
@@ -96,7 +98,7 @@ _____
 - [Tim Ferriss](https://tim.blog/podcast/)
 - [Aubrey Marcus](https://www.aubreymarcus.com/blogs/aubrey-marcus/tagged/aubrey-marcus-podcast)
 - [Entitled Opinions](https://web.stanford.edu/dept/fren-ital/opinions/)
-- [Michigan Citizens Research Council](https://crcmich.org/podcasts/)
+
 
 #### Writing and Watching
 ____
