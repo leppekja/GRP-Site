@@ -23,6 +23,7 @@ _____
 - [Elucidations](http://philosophy.uchicago.edu/podcasts/elucidations.html)
 - [The Public Philosopher](https://www.bbc.co.uk/programmes/b01nmlh2/episodes/downloads)
 - [MeaningofLife TV](http://meaningoflife.tv/)
+- [Philosophy In Action](http://www.philosophyinaction.com/podcasts/) (archived)
 
 **Religion**
 - [Research On Religion](http://www.researchonreligion.org/)
