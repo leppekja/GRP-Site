@@ -270,6 +270,7 @@ Visit your [local library](https://www.worldcat.org/).
 - [Oxford University Press](https://blog.oup.com/)
 - [Law and Political Economy](https://lpeblog.org/)
 - [Philosophy for Life](http://www.philosophyforlife.org/)
+- [Information Philosopher](http://www.informationphilosopher.com/)
 
 **Economics Blogs**
 
