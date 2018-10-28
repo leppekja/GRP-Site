@@ -24,6 +24,7 @@ _____
 - [The Public Philosopher](https://www.bbc.co.uk/programmes/b01nmlh2/episodes/downloads)
 - [MeaningofLife TV](http://meaningoflife.tv/)
 - [Philosophy In Action](http://www.philosophyinaction.com/podcasts/) (archived)
+- [Philosophy for Children](https://depts.washington.edu/nwcenter/resources/webinars/)
 
 **Religion**
 - [Research On Religion](http://www.researchonreligion.org/)
@@ -320,6 +321,9 @@ Deliberation and Dialogue Networks (List in progress)
 - [National Issues Forum](https://www.nifi.org)
 - [National Coalition for Dialogue and Deliberation](http://ncdd.org/)
 - [National Dialogue Network](http://www.nationaldialoguenetwork.org/)
+
+Community Philosophy Supporters (list in progress)
+- [Center for Philosophy for Children](https://depts.washington.edu/nwcenter/)
 
 Please reach out if your favorite source is missing!
 
