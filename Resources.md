@@ -317,6 +317,10 @@ Visit your [local library](https://www.worldcat.org/).
 - [Black Econ Girl](https://blackecongirl.wixsite.com/website/blog)
 - [Ed Dolan](https://dolanecon.blogspot.com/)
 
+**Statistics Blogs**
+- [Simply Statistics](https://simplystatistics.org/)
+- [R Bloggers](https://www.r-bloggers.com/)
+
 Deliberation and Dialogue Networks (List in progress)
 - [National Issues Forum](https://www.nifi.org)
 - [National Coalition for Dialogue and Deliberation](http://ncdd.org/)
