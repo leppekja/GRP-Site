@@ -47,6 +47,8 @@ _____
 - [Guardian Politics Weekly](https://soundcloud.com/guardianpoliticsweekly)
 - [In The Arena](http://www.governing.com/podcast/arena)
 - [Michigan Citizens Research Council](https://crcmich.org/podcasts/)
+- [State of the Re:Union](http://stateofthereunion.com/)
+- [University of Chicago Public Policy Podcast](https://www.uc3p.org/)
 
 **Economics**
 - [Check out this list](http://economicdevelopment.org/category/podcasts/)
