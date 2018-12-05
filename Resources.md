@@ -102,6 +102,7 @@ _____
 - [Tim Ferriss](https://tim.blog/podcast/)
 - [Aubrey Marcus](https://www.aubreymarcus.com/blogs/aubrey-marcus/tagged/aubrey-marcus-podcast)
 - [Entitled Opinions](https://web.stanford.edu/dept/fren-ital/opinions/)
+- [Long Now Seminars](http://longnow.org/projects/seminars/SALT.xml)
 
 
 #### Writing and Watching
@@ -161,6 +162,7 @@ ____
 - [Granta](https://granta.com/)
 - [LitHub](https://lithub.com/)
 - [Center for Economic and Policy Research](http://cepr.net/)
+- [The Interval](https://theinterval.org/salon-talks/)
 
 **Data in Action**
 - [Our World in Data](https://ourworldindata.org/)
