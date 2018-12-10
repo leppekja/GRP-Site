@@ -27,12 +27,14 @@ Discussing expressions of gratitude is confusing, frankly. I suppose we could sa
 
 Internal motivation arises from being concious of the benefits received, whereas external motivation is socially determined or expected. Bring to mind thanking someone for the food on your table or for holding the door open or passing you the salt. It requires low effort and has little value. Yet a thank you is socially expected, despite the negligable utility of such an action. This type of expression is also frequently insincere: it has happened so many times it loses meaning.
 
-A internally-motivated sincere expression of gratitude occurs upon reflection. 
+A internally-motivated sincere expression of gratitude occurs upon reflection, I imagine. How, though, do we demonstrate sincerity? It somehow has to satisfy the internal need to balance out the sense of gratitude as well as provide an equal level of perceived value to the other person. 
 
-Yet are both categories of expression selfish? If being given a gift creates an emotional imbalance, expressing gratitude is merely a method to even out the emotional debt that now exists. We will not owe them anything after saying thank you.
+Yet are both categories of expression selfish? If being given a gift creates an emotional imbalance, expressing gratitude is merely a method to even out the emotional debt that now exists. We will not owe them anything after saying thank you. This seems preferable to remaining in debt to someone else. It's possible that demonstrating gratitude increases the chance that they will repeat the gesture; at the very least, it is a signal of what you value. 
 
-- to be continued -
 
+
+A few sources from the week:
+http://www.econtalk.org/a-j-jacobs-on-thanks-a-thousand/
 https://www.psychologytoday.com/us/basics/gratitude
 https://greatergood.berkeley.edu/topic/gratitude/definition
 https://greatergood.berkeley.edu/article/item/why_gratitude_is_good
