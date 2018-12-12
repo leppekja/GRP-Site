@@ -49,6 +49,7 @@ _____
 - [Michigan Citizens Research Council](https://crcmich.org/podcasts/)
 - [State of the Re:Union](http://stateofthereunion.com/)
 - [University of Chicago Public Policy Podcast](https://www.uc3p.org/)
+- [Conversations with Bill Kristol](https://conversationswithbillkristol.org/)
 
 **Economics**
 - [Check out this list](http://economicdevelopment.org/category/podcasts/)
