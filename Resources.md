@@ -50,6 +50,8 @@ _____
 - [State of the Re:Union](http://stateofthereunion.com/)
 - [University of Chicago Public Policy Podcast](https://www.uc3p.org/)
 - [Conversations with Bill Kristol](https://conversationswithbillkristol.org/)
+- [Midwest Nice](https://midwest-nice.pinecast.co/)
+- [MIRS News (Lansing, MI)](http://mirsnews.podbean.com/)
 
 **Economics**
 - [Check out this list](http://economicdevelopment.org/category/podcasts/)
