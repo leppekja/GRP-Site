@@ -86,6 +86,7 @@ _____
 - [RadioLab](http://www.radiolab.org/)
 - [Skepticality](https://www.skeptic.com/podcasts/skepticality/)
 - [Scientific American](https://www.scientificamerican.com/podcasts/)
+- [Sean Carroll's Mindscape](https://www.preposterousuniverse.com/podcast/)
 
 **Misc.**
 - [Waking Up](https://www.samharris.org/podcast)
@@ -106,6 +107,7 @@ _____
 - [Aubrey Marcus](https://www.aubreymarcus.com/blogs/aubrey-marcus/tagged/aubrey-marcus-podcast)
 - [Entitled Opinions](https://web.stanford.edu/dept/fren-ital/opinions/)
 - [Long Now Seminars](http://longnow.org/projects/seminars/SALT.xml)
+- [80,000 Hours](https://80000hours.org/)
 
 
 #### Writing and Watching
@@ -166,11 +168,14 @@ ____
 - [LitHub](https://lithub.com/)
 - [Center for Economic and Policy Research](http://cepr.net/)
 - [The Interval](https://theinterval.org/salon-talks/)
+- [Current Affairs](https://www.currentaffairs.org/)
 
 **Data in Action**
 - [Our World in Data](https://ourworldindata.org/)
 - [NYT's The Upshot](https://www.nytimes.com/section/upshot)
 - [FiveThirtyEight](https://fivethirtyeight.com/)
+- [Data Driven Jounalism](http://datadrivenjournalism.net/)
+- [Civic Data Challenge](http://civicdatachallenge.org/)
 More to come!
 
 **Online/Social Learning**
@@ -323,6 +328,8 @@ Visit your [local library](https://www.worldcat.org/).
 - [Eggonomics](http://chandniraja.blogspot.com/)
 - [Black Econ Girl](https://blackecongirl.wixsite.com/website/blog)
 - [Ed Dolan](https://dolanecon.blogspot.com/)
+- [Crooked Timber](http://crookedtimber.org/)
+- [Equitable Growth](https://equitablegrowth.org)
 
 **Statistics Blogs**
 - [Simply Statistics](https://simplystatistics.org/)
