@@ -331,9 +331,11 @@ Visit your [local library](https://www.worldcat.org/).
 - [Crooked Timber](http://crookedtimber.org/)
 - [Equitable Growth](https://equitablegrowth.org)
 
-**Statistics Blogs**
+**Statistics and Data Blogs**
 - [Simply Statistics](https://simplystatistics.org/)
 - [R Bloggers](https://www.r-bloggers.com/)
+- [Data Wrapper](https://blog.datawrapper.de/)
+- [On Data Journalism](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/single-page/)
 
 Deliberation and Dialogue Networks (List in progress)
 - [National Issues Forum](https://www.nifi.org)
