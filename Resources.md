@@ -284,6 +284,8 @@ Visit your [local library](https://www.worldcat.org/).
 - [Law and Political Economy](https://lpeblog.org/)
 - [Philosophy for Life](http://www.philosophyforlife.org/)
 - [Information Philosopher](http://www.informationphilosopher.com/)
+- [The Happy Philosopher](https://thehappyphilosopher.com/)
+- [Philosophy Smoker](http://philosophysmoker.blogspot.com/)
 
 **Economics Blogs**
 
