@@ -176,6 +176,7 @@ ____
 - [FiveThirtyEight](https://fivethirtyeight.com/)
 - [Data Driven Jounalism](http://datadrivenjournalism.net/)
 - [Civic Data Challenge](http://civicdatachallenge.org/)
+- [Curtis Miller](http://ntguardian.github.io/)
 More to come!
 
 **Online/Social Learning**
