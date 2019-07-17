@@ -169,6 +169,9 @@ ____
 - [Center for Economic and Policy Research](http://cepr.net/)
 - [The Interval](https://theinterval.org/salon-talks/)
 - [Current Affairs](https://www.currentaffairs.org/)
+- [Milken Review](https://www.milkenreview.org/)
+- [Pro Bono Economics](https://www.probonoeconomics.com/)
+- [Hypatia Philosophy](https://hypatiaphilosophy.org/)
 
 **Data in Action**
 - [Our World in Data](https://ourworldindata.org/)
@@ -339,6 +342,8 @@ Visit your [local library](https://www.worldcat.org/).
 - [R Bloggers](https://www.r-bloggers.com/)
 - [Data Wrapper](https://blog.datawrapper.de/)
 - [On Data Journalism](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-journalism/single-page/)
+- [Policy Viz](https://policyviz.com/)
+- [Intro to Data Science](https://rafalab.github.io/dsbook/)
 
 Deliberation and Dialogue Networks (List in progress)
 - [National Issues Forum](https://www.nifi.org)
