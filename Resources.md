@@ -62,7 +62,6 @@ _____
 - [Planet Money (NPR)](http://www.npr.org/podcasts/510289/planet-money)
 - [99% Invisible](http://99percentinvisible.org/)
 - [Humanosphere](http://www.humanosphere.org/)
-*Just went on hiatus in June, unfortunately...*
 - [CGD Podcast](https://www.cgdev.org/blog/podcasts-development)
 - [Free Thoughts](https://www.libertarianism.org/podcasts)
 - [Talking Africa -Resonance FM](https://www.resonancefm.com/programmes)
@@ -108,6 +107,7 @@ _____
 - [Entitled Opinions](https://web.stanford.edu/dept/fren-ital/opinions/)
 - [Long Now Seminars](http://longnow.org/projects/seminars/SALT.xml)
 - [80,000 Hours](https://80000hours.org/)
+- [Not Unreasonable](https://notunreasonable.com/)
 
 
 #### Writing and Watching
@@ -131,6 +131,7 @@ ____
 - [n+1](https://nplusonemag.com)
 - [The Rumpus](http://therumpus.net/)
 - [RealLifeMag](http://reallifemag.com/)
+- [Vox Recode](https://www.vox.com/recode)
 
 **Think Tanks/Nonprofits/Publications:**
 - [Closer to Truth (PBS)](https://www.closertotruth.com/)
@@ -290,6 +291,12 @@ Visit your [local library](https://www.worldcat.org/).
 - [Information Philosopher](http://www.informationphilosopher.com/)
 - [The Happy Philosopher](https://thehappyphilosopher.com/)
 - [Philosophy Smoker](http://philosophysmoker.blogspot.com/)
+
+**History Blogs**
+- [Roots of Progress](https://rootsofprogress.org/)
+
+**Nonprofit Blogs**
+- [Nonprofit AF](https://nonprofitaf.com/)
 
 **Economics Blogs**
 
