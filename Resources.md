@@ -343,6 +343,7 @@ Visit your [local library](https://www.worldcat.org/).
 - [Ed Dolan](https://dolanecon.blogspot.com/)
 - [Crooked Timber](http://crookedtimber.org/)
 - [Equitable Growth](https://equitablegrowth.org)
+- [Ergodicity Economics](https://ergodicityeconomics.com/)
 
 **Statistics and Data Blogs**
 - [Simply Statistics](https://simplystatistics.org/)
