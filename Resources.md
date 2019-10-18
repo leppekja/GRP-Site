@@ -67,6 +67,7 @@ _____
 - [Talking Africa -Resonance FM](https://www.resonancefm.com/programmes)
 - [Economy - Understandable Economics](https://get.ecnmy.org/)
 - [Stephanie Kelton](https://stephaniekelton.com/)
+- [Macro Musings](https://soundcloud.com/macro-musings/)
 
 **History**
 - [Revisionist History](http://revisionisthistory.com/)
