@@ -136,7 +136,7 @@ ____
 
 **Think Tanks/Nonprofits/Publications:**
 - [Closer to Truth (PBS)](https://www.closertotruth.com/)
-- [The Institute of Art and Ideas](https://iai.tv/)
+- [The Institute of Art and Ideas](https://iai.tv/articles)
 - [Stanford Dictionary of Philosophy](https://plato.stanford.edu/)
 - [Nautilus](http://nautil.us/)
 - [Aeon Magazine](https://aeon.co/)
